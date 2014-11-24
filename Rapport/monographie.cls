@@ -7,12 +7,13 @@
 \usepackage{amssymb}
 \usepackage{fullpage}
 \usepackage[backend=biber]{biblatex}
+\usepackage{xspace}
 \addbibresource{biblio.bib}
 
 
-
-\newcommand{\op}{obsolescence programmée}
-\newcommand{\OP}{Obsolescence Programmée}
+% ALIAS
+\newcommand{\op}{obsolescence programmée\xspace}
+\newcommand{\OP}{Obsolescence Programmée\xspace}
 
 
 %redefinition de la présentation des parties (inspiré de amsbook.cls)
