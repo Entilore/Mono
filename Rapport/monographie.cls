@@ -6,6 +6,10 @@
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{fullpage}
+\usepackage[backend=biber]{biblatex}
+\addbibresource{biblio.bib}
+
+
 
 \newcommand{\op}{obsolescence programmée}
 \newcommand{\OP}{Obsolescence Programmée}
