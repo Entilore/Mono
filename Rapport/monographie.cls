@@ -8,7 +8,7 @@
 \usepackage{fullpage}
 \usepackage[backend=biber]{biblatex}
 \usepackage{xspace}
-\usepackage{graphics}
+\usepackage{graphicx}
 \addbibresource{biblio.bib}
 
 
