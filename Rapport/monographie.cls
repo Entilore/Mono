@@ -8,7 +8,7 @@
 \usepackage{fullpage}
 \usepackage[backend=biber]{biblatex}
 \usepackage{xspace}
-\usepackage{graphics}
+\usepackage{graphicx}
 \addbibresource{biblio.bib}
 
 
@@ -70,3 +70,6 @@
   \Huge\textsf{#1}\par\vspace{1cm}\hrule\vspace{1cm} \endgroup
   \skip@34\p@ \advance\skip@-\normalbaselineskip
   \vskip\skip@ }
+
+\newcommand{\loremipsum}{}
+
