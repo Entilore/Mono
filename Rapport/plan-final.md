@@ -30,6 +30,7 @@ Les grandes problématiques d’une durée de vie réduite
     pièces réparable
     pièces interchangeable / FAB Lab (voir monographie -> imprimante 3D
     pieces recyclable
+
 Une perspective d’avenir
 --------------------
 ### Les actions existantes (expressions des acteurs) (Amine)
@@ -45,4 +46,8 @@ Une perspective d’avenir
     Rétablir la démarche mercatique
     l’impact des réseaux d’information (mise en évidence de l’OP, pression sur les grandes marques, ex : apple, grande cible)
 
+Conclusion
+----------
 
+Annexe
+------
