@@ -16,6 +16,7 @@ pdflatex main.tx
 Il peut être nécéssaire d'intaller les paquets suivants :
 
 * Fedora: texlive-babel-french
+* Fedora : biber (via biber.rep dans /etc/yum.repo.d )
 * Debian: texlive-lang
 
 Rapport
