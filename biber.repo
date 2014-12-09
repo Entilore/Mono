@@ -1,0 +1,6 @@
+[cbm-Biber]
+name=Copr repo for Biber owned by cbm
+baseurl=http://copr-be.cloud.fedoraproject.org/results/cbm/Biber/fedora-$releasever-$basearch/
+skip_if_unavailable=True
+gpgcheck=0
+enabled=1
