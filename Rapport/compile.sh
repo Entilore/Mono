@@ -1,4 +1,4 @@
-texi2pdf  main.tex
-bibtex  main
-texi2pdf  main.tex
-texi2pdf  main.tex
+latex -interaction=nonstopmode  main.tex
+biber main
+latex -interaction=nonstopmode  main.tex
+latex -interaction=nonstopmode  main.tex
