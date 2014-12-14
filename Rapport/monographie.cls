@@ -6,7 +6,7 @@
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{fullpage}
-\usepackage[backend=biber]{biblatex}
+\usepackage[backend=biber, sorting=none]{biblatex}
 \usepackage{xspace}
 \usepackage{graphicx}
 \addbibresource{biblio.bib}
