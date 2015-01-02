@@ -2,13 +2,10 @@
 \usepackage[utf8]{inputenc}
 \usepackage[french]{babel}
 \usepackage[T1]{fontenc}
-\usepackage{amsmath}
-\usepackage{amsfonts}
-\usepackage{amssymb}
 \usepackage{fullpage}
-\usepackage[backend=biber, sorting=none]{biblatex}
 \usepackage{xspace}
 \usepackage{graphicx}
+\usepackage[backend=biber, sorting=none]{biblatex}
 \addbibresource{biblio.bib}
 
 
