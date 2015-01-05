@@ -16,4 +16,5 @@ Desktop.ini
 *.run.xml
 *.swp
 *.bcf
-
+*.glo
+*.ist
