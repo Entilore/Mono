@@ -6,7 +6,7 @@
 \usepackage{xspace}
 \usepackage{graphicx}
 \usepackage[backend=biber, sorting=none]{biblatex}
-\usepackage{textcomp}
+\usepackage{eurosym}
 \addbibresource{biblio.bib}
 
 
@@ -16,7 +16,6 @@
 % ALIAS
 \newcommand{\op}{obsolescence programmée\xspace}
 \newcommand{\OP}{Obsolescence Programmée\xspace}
-\newcommand{\euro}{\texteuro}
 
 
 %redefinition de la présentation des parties (inspiré de amsbook.cls)
