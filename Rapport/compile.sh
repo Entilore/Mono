@@ -1,4 +1,5 @@
-latex -interaction=nonstopmode  main.tex
+pdflatex -synctex=1 -interaction=nonstopmode main.tex
 biber main
-latex -interaction=nonstopmode  main.tex
-latex -interaction=nonstopmode  main.tex
+pdflatex -synctex=1 -interaction=nonstopmode main.tex
+pdflatex -synctex=1 -interaction=nonstopmode main.tex
+
