@@ -17,7 +17,10 @@ Il peut être nécéssaire d'intaller les paquets suivants :
 
 * Fedora: texlive-babel-french
 * Fedora : biber (via biber.rep dans /etc/yum.repo.d )
+* Fedora : texlive-wrapfig
 * Debian: texlive-lang
+
+En cas de soucis, rechercher les paquets manquant avec `apt-cache search <paque>` pour Debian et `yum search <paquet>` pour Fedora.
 
 Rapport
 -------
