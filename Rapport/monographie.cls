@@ -10,6 +10,9 @@
 \addbibresource{biblio.bib}
 
 
+\usepackage{glossaries}
+\makeglossaries
+
 % ALIAS
 \newcommand{\op}{obsolescence programmée\xspace}
 \newcommand{\OP}{Obsolescence Programmée\xspace}
