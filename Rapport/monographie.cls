@@ -5,7 +5,7 @@
 \usepackage{fullpage}
 \usepackage{xspace}
 \usepackage{graphicx}
-\usepackage[backend=biber, sorting=none]{biblatex}
+\usepackage[backend=biber, sorting=none,hyperref=true]{biblatex}
 \usepackage{eurosym}
 \addbibresource{biblio.bib}
 
