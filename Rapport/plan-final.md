@@ -51,7 +51,7 @@ Une perspective d’avenir
 * l’analyse SWOT
 
 ### Le rôle central du consommateur pour l’avenir (changer les mentalités) (Max)
-* La consommation responsable
+* La consommation (ir)responsable
 * Rétablir la démarche mercatique
 * l’impact des réseaux d’information (mise en évidence de l’OP, pression sur les grandes marques, ex : apple, grande cible)
 
