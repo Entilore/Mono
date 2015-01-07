@@ -6,13 +6,14 @@ Monographie
 Contribuer
 ----------
 
-Le rapport est éditable sous n'importe quel éditeur de texte (nano, gedit, vim, notpad...).
-Il peut être compilé via un éditeur (LaTeXila, TexLive) ou en ligne de commande via :
+Le rapport est éditable sous n'importe quel éditeur de texte (nano, gedit, vim, notepad...).
+Il peut être compilé via un éditeur (LaTeXila, TexLive) ou en ligne de commande via un script dédié :
 
 ```BASH
-pdflatex main.tx
+./compile
 ```
 
+### Pour Linux
 Il peut être nécéssaire d'intaller les paquets suivants :
 
 * Fedora: texlive-babel-french
@@ -21,6 +22,9 @@ Il peut être nécéssaire d'intaller les paquets suivants :
 * Debian: texlive-lang
 
 En cas de soucis, rechercher les paquets manquant avec `apt-cache search <paque>` pour Debian et `yum search <paquet>` pour Fedora.
+
+### Pour Windows
+Le projet est compilable à l'aide d'un éditeur comme `TexLive` ou en ligne de commande avec `MikTex`
 
 Rapport
 -------
