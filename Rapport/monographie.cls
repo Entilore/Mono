@@ -11,10 +11,13 @@
 \usepackage{eurosym}
 \usepackage{wrapfig}
 \usepackage[final]{pdfpages} 
-\usepackage[titletoc]{appendix}
+\usepackage{appendix}
 
 \addbibresource{biblio.bib}
 
+\defbibheading{bibliography}[\bibname]{%
+\chapter{#1}%
+\markboth{#1}{#1}}
 
 % ALIAS
 \newcommand{\op}{obsolescence programmée\xspace}
