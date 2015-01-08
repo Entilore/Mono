@@ -5,8 +5,13 @@
 \usepackage{fullpage}
 \usepackage{xspace}
 \usepackage{graphicx}
-\usepackage[backend=biber, sorting=none,hyperref=true]{biblatex}
+\usepackage{hyperref}
+\hypersetup{colorlinks,citecolor=black,filecolor=black,linkcolor=black,urlcolor=black}
+\usepackage[backend=biber, sorting=none,hyperref=true,maxnames=9]{biblatex}
 \usepackage{eurosym}
+\usepackage{wrapfig}
+\usepackage[final]{pdfpages} 
+
 \addbibresource{biblio.bib}
 
 
@@ -69,6 +74,3 @@
   \skip@34\p@ \advance\skip@-\normalbaselineskip
   \vskip\skip@ }
 
-\newcommand{\loremipsum}{}
-
-\usepackage{wrapfig}
