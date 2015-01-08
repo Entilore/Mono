@@ -11,6 +11,7 @@
 \usepackage{eurosym}
 \usepackage{wrapfig}
 \usepackage[final]{pdfpages} 
+\usepackage[titletoc]{appendix}
 
 \addbibresource{biblio.bib}
 
