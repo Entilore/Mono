@@ -10,7 +10,7 @@ Le rapport est éditable sous n'importe quel éditeur de texte (nano, gedit, vim
 Il peut être compilé via un éditeur (LaTeXila, TexLive) ou en ligne de commande via un script dédié :
 
 ```BASH
-./compile
+./compile.sh
 ```
 
 ### Pour Linux
@@ -21,7 +21,7 @@ Il peut être nécéssaire d'intaller les paquets suivants :
 * Fedora : texlive-wrapfig
 * Debian: texlive-lang
 
-En cas de soucis, rechercher les paquets manquant avec `apt-cache search <paque>` pour Debian et `yum search <paquet>` pour Fedora.
+En cas de soucis, rechercher les paquets manquant avec `apt-cache search <paquet>` pour Debian et `yum search <paquet>` pour Fedora.
 
 ### Pour Windows
 Le projet est compilable à l'aide d'un éditeur comme `TexLive` ou en ligne de commande avec `MikTex`

@@ -1,10 +1,12 @@
 \documentclass{monographie}
-
+\title{L'\OP : réalité industrielle ou lubie consumériste ? }
+\addtocontents{toc}{\protect\thispagestyle{empty}}
 \begin{document}
 %\maketitle
 \includepdf{page_de_garde}
 \include{remerciements}
 \tableofcontents
+\thispagestyle{empty}
 \input{introduction}
 \input{c1/chapter}
 	\input{c1/s1/section}
@@ -47,14 +49,17 @@
 		\input{c3/s3/ss3/subsection}
 \input{conclusion}
 
-\begin{appendices}
+\appendix
+\renewcommand{\chaptername}{Annexe}
 \chapter{Interview}
 \input{Rsc/InterviewBrunoClementin}
 
+\include{glossary}
+
 \printbibliography
-
-\input{glossary}
+\newpage
+\strut
+\thispagestyle{empty}
+\newpage
 \include{fin}
-
-\end{appendices}
 \end{document}
