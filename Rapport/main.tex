@@ -1,10 +1,12 @@
 \documentclass{monographie}
 \title{L'\OP : réalité industrielle ou lubie consumériste ? }
+\addtocontents{toc}{\protect\thispagestyle{empty}}
 \begin{document}
 %\maketitle
 \includepdf{page_de_garde}
 \include{remerciements}
 \tableofcontents
+\thispagestyle{empty}
 \input{introduction}
 \input{c1/chapter}
 	\input{c1/s1/section}
@@ -55,6 +57,9 @@
 \include{glossary}
 
 \printbibliography
-
+\newpage
+\strut
+\thispagestyle{empty}
+\newpage
 \include{fin}
 \end{document}

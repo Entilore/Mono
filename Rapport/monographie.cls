@@ -1,7 +1,7 @@
 \LoadClass[11pt,a4paper,openany]{book}
 \usepackage[utf8]{inputenc}
-\usepackage[french]{babel}
 \usepackage[T1]{fontenc}
+\usepackage[french]{babel}
 \usepackage{fullpage}
 \usepackage{xspace}
 \usepackage{graphicx}
@@ -12,7 +12,6 @@
 \usepackage{wrapfig}
 \usepackage[final]{pdfpages} 
 \usepackage{appendix}
-
 \addbibresource{biblio.bib}
 
 \defbibheading{bibliography}[\bibname]{%
