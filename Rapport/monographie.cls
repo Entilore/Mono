@@ -55,11 +55,11 @@
   \fi
 }
 %------------------------------------------------------------
-%redefinition de la présentation dest chapitres (inspiré de amsbook.cls)
+%redefinition de la présentation des chapitres (inspiré de amsbook.cls)
 %\renewcommand{\thechapter}{\roman{chapter}}
 \def\@makechapterhead#1{%\global\topskip 7.5pc\relax
   \begingroup
-  \fontsize{\@xivpt}{18}\bfseries\centering
+  \fontsize{\@xivpt}{18}\sffamily\scshape\centering
     \ifnum\c@secnumdepth>\m@ne
       \leavevmode \hskip-\leftskip
       \rlap{\vbox to\z@{\vss
@@ -72,7 +72,7 @@
   
 \def\@makeschapterhead#1{%\global\topskip 7.5pc\relax
   \begingroup
-  \fontsize{\@xivpt}{18}\bfseries\centering
+  \fontsize{\@xivpt}{18}\sffamily\scshape\centering
   \Huge\textsf{#1}\par\vspace{1cm}\hrule\vspace{1cm} \endgroup
   \skip@34\p@ \advance\skip@-\normalbaselineskip
   \vskip\skip@ }
