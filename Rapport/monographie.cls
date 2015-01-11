@@ -12,6 +12,9 @@
 \usepackage{wrapfig}
 \usepackage[final]{pdfpages} 
 \usepackage{appendix}
+
+\usepackage{thmbox}
+
 \addbibresource{biblio.bib}
 
 \defbibheading{bibliography}[\bibname]{%
