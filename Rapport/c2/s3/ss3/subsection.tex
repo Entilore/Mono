@@ -37,38 +37,37 @@ Une carte Arduino est une carte électronique qui se veut accessible à tous. El
 
 \medbreak
 
-Suite à la volonté du gouvernement français de développer les fablabs, leur nombre est en pleine extension. En 2013, la ministre déléguée chargée des PME Fleur Pellerin lance un appel à projet pour subventionner et développer les fablabs sur le territoire français. Près de 150 réponses auront étés présentées. 15 parmi celles-ci ont été retenues. Ainsi, ce type d'organisation est amené a être de plus en plus présent dans nos vies. 
+Suite à la volonté du gouvernement français de développer les fablabs, leur nombre est en pleine expension. En 2013, la ministre déléguée chargée des PME, Fleur Pellerin, lance un appel à projet pour subventionner et développer les fablabs sur le territoire français. Près de 150 réponses auront étés présentées. 15 parmi celles-ci ont été retenues. Ainsi, ce type d'organisation est amené a être de plus en plus présent dans nos vies. 
 
 La monographie \textit{Fablabs et imprimantes 3D}, rédigée par cinq étudiants de l'INSA de Rennes en 2013, contient une partie entière sur la possibilité de lutte contre l'\op. Nous vous invitons à consulter leur site web pour plus d'information\footnote{\url{http://diy-fablab.insa-rennes.fr}}.
 
 
 \bigbreak 
 
-Ces idées sont certes prometteuses, mais elles nous semblent difficilement applicables. Réparer les pièces semble  être compromis, du moins dans le domaine électronique. En effet, les composants électroniques sont de nos jours microscopiques. Les consommateurs sont en effet demandeurs de produits toujours plus performants. Il est difficile d'imaginer un téléphone portable sans GPS ni Bluetooth, alors que c'était la norme il y a dix ans. Pour satisfaire ce désir, les fabricants ont réduit la taille des composants de base. 
+Ces idées sont certes prometteuses, mais elles nous semblent difficilement applicables. Réparer les pièces semble être compromis, du moins dans le domaine électronique. En effet, les composants électroniques sont de nos jours microscopiques. Les consommateurs sont en effet demandeurs de produits toujours plus compactes et performants. Il est difficile d'imaginer un téléphone portable sans GPS ni Bluetooth, alors que c'était la norme il y a dix ans. Pour satisfaire ce désir de toujours plus dans toujours moins, les fabricants ont drastiquement réduit la taille des composants. 
 
-Le soudage a aussi été abandonné. Auparavant, pour fixer les éléments électroniques, on les soudait : une broche était passée au travers de la carte électronique, puis fixée grâce à de l'étain. Cette technologie possédait l'avantage d'être réversible : il est facile d'enlever un composant défectueux et de le remplacer. 
+Le soudage a aussi été abandonné. Auparavant, pour fixer les éléments électroniques, on les soudait : une broche était passée au travers de la carte électronique, puis fixée grâce à de l'étain. Cette technologie possédait l'avantage d'être réversible : il est relativement facile d'enlever un composant défectueux et de le remplacer. 
 
-La technique actuelle, qui permet la miniaturisation, est appelée le Composant Monté en Surface (CMS). Au lieu d'être soudé, le composant est brasé (comprendre collé) à la carte mère. Le CMS est bien plus avantageux que les anciennes techniques : le temps de fabrication est réduit (pas de perçage de la plaque, plus facilement automatisable) le poids et la taille  sont réduits. Cette technologie a naturellement été choisie par les industriels ; elle répond aux 
-ces de coût, de taille et de poids que les consommateurs ont. Le principal inconvénient de cette méthode est la maintenance : réussir à identifier la pièce responsable du dysfonctionnement est largement compliqué par la miniaturisation (il faut penser que la taille d'une résistance de type CMS est de  l'ordre du millimètre) ; réussir à extraire la pièce coupable sans abimer le reste de la carte devient extrêmement ardu. 
+La technique actuelle, qui permet la miniaturisation, est appelée le Composant Monté en Surface (CMS). Au lieu d'être soudé, le composant est brasé (comprendre collé) à la carte mère. Le CMS est bien plus avantageux que les anciennes techniques : le temps de fabrication est réduit (pas de perçage de la plaque, plus facilement automatisable) le poids et la taille  sont réduits. Cette technologie a naturellement été choisie par les industriels ; elle répond aux exigences de coût, de taille et de poids que les consommateurs ont.
+\smallbreak
+Le principal inconvénient de cette méthode est la maintenance : réussir à identifier la pièce responsable du dysfonctionnement compliqué par la miniaturisation (il faut penser que la taille d'une résistance de type CMS est de l'ordre du millimètre) ; réussir à extraire la pièce coupable sans abimer le reste de la carte devient extrêmement ardu. 
 
 Pour pouvoir  réparer facilement un produit, il faudrait donc pouvoir réutiliser des techniques de soudage. Ceci est difficilement réalisable car : 
 \begin{itemize}
 \item le produit serait 10 fois plus gros : la taille d'une résistance CMS est de l'ordre du millimètre, celle d'une résistance à souder est de l'ordre du centimètre ;
-\item le produit serait plus cher. 
+\item le produit serait plus cher, car le temps de fabrication serait plus important.
 \end{itemize}
 Le consommateur serait il prêt à payer plus cher pour un produit plus gros ? C'est peu probable.
 
 \medbreak
 Certains espèrent réparer les produits avec une carte Arduino. Sur ce point aussi nous sommes sceptiques. 
 
-Comme nous l'avons expliqué précédemment, il est difficile de remplacer un composant issu de la miniaturisation. Il est donc nécessaire de remplacer une grande partie du produit pour réparer la pièce cassée. La tâche semble possible ; malgré tout, il faudra comprendre le fonctionnement de la partie à remplacer par soi-même (les constructeurs ne donnent pas en libre source les plans de leur inventions), puis réussir à reprogrammer cette partie. Cette tache est donc un travail de longue haleine. 
+Comme nous l'avons expliqué précédemment, il est difficile de remplacer un composant issu de la miniaturisation. Il est donc nécessaire de remplacer une grande partie du produit pour réparer la pièce cassée. La tâche semble possible ; malgré tout, il faudra comprendre le fonctionnement de la partie à remplacer par soi-même (les constructeurs ne donnent pas en libre accès les plans de leur inventions), puis réussir à reprogrammer cette partie sur un support externe, qui possède éventuellement une architecture différente. Cette tache est donc un travail de longue haleine. 
 
-Il est possible que, comme dans le domaine de l'informatique, des implémentations libres soient téléchargeables sur internet : un utilisateur développe une solution dépannant le sèche-linge dont nous prenions l'exemple plus tôt. Il mettrait ensuite le code source en libre service sur internet. Mais a-t-il le droit de le faire ? 
+Il est possible que, comme dans le domaine de l'informatique, des implémentations libres soient téléchargeables sur internet : un utilisateur développe une solution dépannant le sèche-linge dont nous prenions l'exemple plus tôt. Il mettrait ensuite le code source en libre service sur internet. Mais à l'heure où les entreprises protègent de plus en plus leur produits grâce au brevet, a-t-il le droit de le faire ? 
 
-\medbreak 
-
+\medbreak
 Une partie tout à fait réalisable est le remplacement de pièce plastique. En effet, le bouton que nous souhaitions réparer est beaucoup plus gros que les carte électronique. Il est possible d'observer la pièce et de la reproduire sur ordinateur pour ensuite l'imprimer. De plus, on peut imaginer le même principe de distribution sur internet du plan. Dans ce cas, la question légale se pose : la législation française autorisera-t-elle cette pratique ? 
 
 \bigbreak
-
 Ainsi, les Fablabs constituent une solution pour luter contre l'\op. Cependant, le projet semble quelque peu idéaliste par rapport au souhait des consommateurs actuels. 
