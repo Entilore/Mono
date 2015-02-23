@@ -4,6 +4,7 @@
 \usepackage[french]{babel}
 \usepackage{fullpage}
 \usepackage{xspace}
+\usepackage{here}
 \usepackage{graphicx}
 \usepackage{hyperref}
 \hypersetup{colorlinks,citecolor=black,filecolor=black,linkcolor=black,urlcolor=black}
