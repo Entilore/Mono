@@ -24,7 +24,7 @@
 
 % ALIAS
 \newcommand{\op}{obsolescence programmée\xspace}
-\newcommand{\OP}{Obsolescence Programmée\xspace}
+\newcommand{\OP}{Obsolescence programmée\xspace}
 
 %redefinition de la présentation des parties (inspiré de amsbook.cls)
 
