@@ -2,10 +2,10 @@
 
 [nouveau fichier] 22->46min Maximilien
 T: ...pour vous c'est de l'obsolescence ?
-Alors, c'est une histoire très intéressante que celle de ce cartel. Comment est apparut ce cartel ? D'abord il est apparut d'un besoin des sociétées de standardisation. C'est à dire que les ampoules électriques, qui on été inventé par Edison, existaient en différents types, différentes caractéristiques, etc...
+Alors, c'est une histoire très intéressante que celle de ce cartel. Comment est apparut ce cartel ? D'abord il est apparut d'un besoin des sociétés de standardisation. C'est à dire que les ampoules électriques, qui on été inventé par Edison, existaient en différents types, différentes caractéristiques, etc...
 Or pour le consommateur on a un besoin de standardisation quand on est sur un produit de ce type là. C'est pour ça par exemple que toute les essences marchent dans toutes les voitures.
 
-De fait Elf, Total, Shell, se sont tous mis d'accord sur ce que l'on met dans l'essence. Pour les ampoules c'est la même chose. Quand vous avez une lampe, il est dans l'intéret du consommateur que les culots soient standardisés, de manière à pouvoir visser des ampoules de différentes marques sur votre lustre par exemple.
+De fait Elf, Total, Shell, se sont tous mis d'accord sur ce que l'on met dans l'essence. Pour les ampoules c'est la même chose. Quand vous avez une lampe, il est dans l'intérêt du consommateur que les culots soient standardisés, de manière à pouvoir visser des ampoules de différentes marques sur votre lustre par exemple.
 Donc c'est parti d'un besoin de standardisation qui a fait que les entreprises qui fabriquaient des ampoules, qui étaient des grosses entreprises de matériel électrique, dont Phillips et d'autres marques qui existent encore d'ailleurs, ont commencé à établir un certain nombre de standards.
 C'est quelque chose de tout à fait normal et dont on a besoin, il faut que les produits soient interopérables.
 Ici, le problème est que pour l'établissement des standards des ampoules, il y a une contrainte physique.
@@ -20,7 +20,7 @@ Donc ça c'est le point de départ du cartel, et c'est tout à fait normal. Mais
 Mais ensuite ils se sont réparti le marché, c'est à dire qu'ils se sont dis : "Tel entreprise au le monopole sur tel marché, tel sur tel autre..." et ont établi des prix pour dire "Tel doit faire tel prix à tel endroit" pour que le marché soit entièrement fermé, entièrement verrouillé par eux. Et ensuite, le problème devient économique. Tout le monde a envie de tricher. Si tout le monde s'est mis d'accord sur un prix élevé, si j'arrive à vendre en douce des produits moins chère, je vais gagner de la part de marché. C'est un problème classique, et la raison pour laquelle l'OPEP ne fonctionne pas. Si vous êtes un petit pays producteur de pétrole, vous pouvez profiter des prix élevé pour vendre un peu plus, pour gagner plus d'argent. Donc c'est pour ça que tout les cartels on tendance à contrôler énormément tout leurs membres.
 
 Un élément intéressante c'est qu'a peu près à la même époque que le cartel Phoebus est apparut en Suisse un autre cartel, celui du fromage, organisé par l'état. Pour avoir une idée, ce cartel limitait à 6 le nombre de fromages produit, alors qu'il en existait plus d'une centaine. Pourquoi ? Car cela permettait de contrôler l'activité.
-Et chez Phoebus, ils ont fait la même chose. Pour éviter que certains ne viennent contourner le cartel, ils on imposé des standards extremment strict sur tout.
+Et chez Phoebus, ils ont fait la même chose. Pour éviter que certains ne viennent contourner le cartel, ils on imposé des standards extrêmement strict sur tout.
 Ils ont décidé que la durée de vie d'une ampoule serait 1000h - 1000h, tel caractéristiques, point. Ce qui, je répète, est un calcul comme un autre ! 1000h, pourquoi pas ?
 Je veux dire, ils auraient pu faire des ampoules de 2000h deux fois plus chère, ça n'aurait rien changé. Mais du coup ils ont dis à leur producteur : "il est interdit de construire des ampoules qui durent plus longtemps" (je reviendrais là dessus).
 Pourquoi l'interdire ? C'est logique. Si vous voulez contourner un cartel ou on a dis que tout le monde vends des ampoules à 1$, et vous n'avez pas le droit de baisser vos prix. Hé bien vous dites : "Mes ampoules sont à 1$, mais elles durent plus longtemps !", et là, vous contournez le cartel.
@@ -29,7 +29,44 @@ Donc automatiquement le cartel va interdire ça. Non pas par rapport au consomma
 Pourquoi est-ce qu'il ne l'ont pas fait ? Parce que vous êtes une entreprise membre du cartel. Est-ce que vous allez faire de la R&D pour augmenter la durée de vie des ampoules ? Non ! Puisque que si vous inventez quelque chose, vous êtes obligé d'en faire profiter tout les membres du cartel. Vous ne pouvez pas l'utiliser pour vous.
 Donc aucun fabriquant n'a été incité durant cette période là à faire de la recherche pour augmenter la durée de vie des ampoules et la qualité des produits.
 
-Donc ce que l'on voit ici, c'est que quand vous faite face à un monopole, bah les produits sont pourris et ne s'améliore pas beaucoup. Ce n'est pas quelque chose de très nouveau et vous voyez qu'ici, le consommateur est absent. Vous voyez ici, il aurait sans doute été intéressant pour les entreprises de choisir un autre standard, mais elles ne pouvaient pas quitter le standard en question. Il aurait fallu se lancer dans la recherche et il aurait fallu le faire collectivement, ce qui est difficile à coordonner.
+Donc ce que l'on voit ici, c'est que quand vous faite face à un monopole, bah les produits sont pourris et ne s'améliore pas beaucoup. Ce n'est pas quelque chose de très nouveau et vous voyez qu'ici, le consommateur est absent. Vous voyez ici, il aurait sans doute été intéressant pour les entreprises de choisir un autre standard, mais elles ne pouvaient pas modifier le standard en question. Il aurait fallu se lancer dans la recherche et il aurait fallu le faire collectivement, ce qui est difficile à coordonner.
+
+Le jugement : comme vous l'avez dis, le cartel est tombé dans un procès antitrust, mais ce qui est intéressant c'est que quand vous lisez les accusations, il est écrit noir sur blanc que les magistrats ont condamné le cartel à une très lourde amende, il n'y a donc aucune notion d'indulgence, il on explicitement dis "Pour ce qui concerne la durée de vie, elle ne constitue pas une pratique anticonsommateurs, mais un choix de standard technique". Cette phrase est directement extraite du jugement, qui lui même condamne le cartel. Se partager le marché est un scandale, mais avoir décidé d'une durée de vie standard, ça n'en est pas un.
+
+Ce qui m'intriguait c'est la  durée de vie annoncé des ampoules. A l'époque, on annonçait 2.500 h. Vous ne pensez pas qu'ils airaient pu faire... plus ?
+
+N'oublier pas que la durée de vie d'une ampoule n'est pas si facile que ça à calculer. L'ampoule d'un frigo par exemple, qui est éteinte et allumé sans arrêt, suis des contraintes tout à fait différent de l'ampoule d'une pièce qui reste tout le temps allumé.
+Des ampoules identiques dans des contextes différents produiront des résultats différents. Donc cette durée de vie affichée et indiqué, quel est sa validité. On est à une époque où les entreprises mentent comme des arracheurs de dent, on vous vend des cigarettes en vous disant "les docteurs recommandent Camel". J'ai une grande méfiance par rapport à ce qu'affiche les entreprises. Il est très probable que vous trouverez "Jusqu'à 2.500h d'éclairage", comme mon téléphone qui a 20h d'autonomie... quand je ne m'en sert pas !
+Moi je serait méfiant, et je pense qu'il a eu un vrai choix technique par rapport aux contraintes d'utilisation, pour avoir quelque chose de vraiment standardisé.
+Notez bien que maintenant, les ampoules ont des durées de vie différentes. Si vous allez au supermarché, vous verrez des durées de vie différentes... et des prix différentes ! Et cela en fonction des gammes et des technologies misent en œuvre.
+De ce point de vue là, dans un contexte qui est très différent des années 30, les entreprises trouvent un intérêt à vous proposer des ampoules qui durent plus longtemps, quitte à vous les proposer 3x plus chère.
+
+T: Alors justement, nous avons un exemple, cité par Serge Latouche. je suppose que vous le connaissez ?
+
+Oui
+
+T: Il cite le cas de "Navra", une entreprise de l'Allemagne de l'est qui proposait des ampoules avec une durée de vie de 100.000h. Après la chute du mur de Berlin, ils ne réussirent pas à s'implanter sur le marché, et disparurent en 1995. Est-ce que cela veux dire que le cartel se serait prolongé jusqu'en 1995 ?
+
+Non, premier point : le cartel a disparu dans les années 30, après sa condamnation, et aussi après la seconde guerre mondiale, à cause de la pression germano-américaine. Il y a eu de nombreux nouveaux acteurs sur ce marché, notamment les japonais. Le marché a complètement changé.
+Quand à cette histoire qui est cité dans le documentaire, moi, tout les mythes lié à la qualité des produits de l'Allemagne de l'est  je pense qu'il faut quand même se méfier de ce genre de choses.
+Si on vous dis qu'on faisait des ampoules à 100.000h, moi je répond "comment ?". Même en regard de la durée de vie des ampoules aujourd’hui, ça parait peu plausible.
+Et je répète, si c'est vraiment le cas, quel intérêt a une entreprise à refuser ça ?
+Mettons que la durée de vie actuelle d'une ampoule soit 2000h. Si on se remet à la chute du mur de Berlin, on va dire que ça valait 0.50€, pour 2000h.
+Si je suis capable de faire une ampoule à 100.00h, je vais dire au gens "Regardez, je sais faire une ampoule qui éclaire tout le temps ! Garantie à vie !". Vous affichez votre garantie, les consommateurs sont intéressé : l'ampoule que vous ne changez jamais ! Vous voyez la réclame !
+Et avec ça vous raflez tout le marché.
+
+Donc c'est ça tout mon problème. Moi je veux bien qu'on me raconte des histoire, mais... vous savez comment on double la valeur d'une voiture d'Allemagne de l'est ?
+
+T: Non
+
+On fait le plein
+
+T: (rire)
+
+C'était les blagues qu'eux même répétaient sur leurs produits. Et ce n'est pas un sombre complot qui a fait que la production est-allemande a disparu. C'est qu'objectivement, la qualité était plus que médiocre pour un prix élevé. 
+
+[37:33]
+
 
 
 ----------------- [ancien fichier - Jean ] 46 minutes : 
