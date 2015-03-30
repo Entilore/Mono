@@ -1,0 +1,278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"squ",
+				"square"
+			],
+			[
+				"po",
+				"pop"
+			],
+			[
+				"cu",
+				"currColour"
+			],
+			[
+				"in",
+				"interactor"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"li",
+				"lineWidth"
+			],
+			[
+				"L",
+				"ligne"
+			],
+			[
+				"on",
+				"onInteractionStart"
+			],
+			[
+				"fo",
+				"formes"
+			],
+			[
+				"de",
+				"deplacement"
+			],
+			[
+				"get",
+				"getMousePosition"
+			],
+			[
+				"pos",
+				"positionInital_y"
+			],
+			[
+				"ti",
+				"this"
+			],
+			[
+				"fil",
+				"fillTables"
+			],
+			[
+				"table",
+				"tableID"
+			],
+			[
+				"route",
+				"routeId"
+			],
+			[
+				"rou",
+				"routeId"
+			],
+			[
+				"for",
+				"foreach"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 72.0,
+		"selected_items":
+		[
+			[
+				"Package Control: insat",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Insa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/maximilien/INSA/psh/Mono/Website/index.htm",
+		"/home/maximilien/INSA/psh/Mono/Website/style.css",
+		"/home/maximilien/INSA/psh/Mono/Website/css/bootstrap.css",
+		"/home/maximilien/INSA/psh/Mono/Rapport/c3/s3/ss2/subsection.tex",
+		"/home/maximilien/dev/google-hashcode-2014/trial/trial.c",
+		"/home/maximilien/INSA/psh/wp_theme/pof/index.htm",
+		"/home/maximilien/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/maximilien/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/maximilien/INSA/scripts/tp6_javascript_html5/controler.js",
+		"/home/maximilien/INSA/scripts/tp6_javascript_html5/view.js",
+		"/home/maximilien/INSA/psh/Mono/Rapport/biblio.bib",
+		"/home/maximilien/INSA/scripts/tp6_javascript_html5/main.js",
+		"/home/maximilien/INSA/scripts/tp6_javascript_html5/model.js",
+		"/home/maximilien/INSA/scripts/tp6_javascript_html5/interaction.js",
+		"/home/maximilien/INSA/scripts/tp6_javascript_html5/canvas.html",
+		"/home/maximilien/INSA/ocaml/tp5.ml",
+		"/home/maximilien/InsaLan/reseau10/vpn/manageVPN.pl",
+		"/home/maximilien/InsaLan/insalan.fr/src/InsaLan/TournamentBundle/Resources/views/Default/tournament.html.twig"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"body",
+			"fig",
+			"assets/",
+			"../../",
+			"range2vpn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "bootstrap-theme.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

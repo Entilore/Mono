@@ -1077,7 +1077,7 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #333;
+  color: #E6E6E6;
   background-color: #fff;
 }
 input,
@@ -1141,6 +1141,7 @@ hr {
   margin-bottom: 20px;
   border: 0;
   border-top: 1px solid #eee;
+  border-style: dotted;
 }
 .sr-only {
   position: absolute;
