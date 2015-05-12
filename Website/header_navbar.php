@@ -40,21 +40,64 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li><a href="#home" >Accueil</a></li>
-                <li><a href="#about">A propos</a></li>
-                <li><a href="#contact" class="text-right">Contact</a></li>
+                
+                <!-- Définitions ================================================== -->
                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Définitions <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
-                    <li><a href="#">Action</a></li>
-                    <li><a href="#">Another action</a></li>
-                    <li><a href="#">Something else here</a></li>
-                    <li class="divider"></li>
-                    <li class="dropdown-header">Nav header</li>
-                    <li><a href="#">Separated link</a></li>
-                    <li><a href="#">One more separated link</a></li>
+                    <li><a href="#">Obsolescence programmée</a></li>
+                    <li><a href="#">Démarche mercatique</a></li>
+                    <li><a href="#">Qualité</a></li>
                   </ul>
                 </li>
+
+                <!-- Exemples d'OP ================================================== -->
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Exemples <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                      <li><a href="#">Imprimantes</a></li>
+                      <li><a href="#">Produits Apple</a></li>
+                      <li><a href="#">Ampoules</a></li>
+                      <li><a href="#">Bas Nylon</a></li>
+                      <li><a href="#">Modèle de Détroit</a></li>
+                  </ul>
+                </li>
+                <!-- Les Acteurs ================================================== -->
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Acteurs <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+
+                    <li class="dropdown-header">Ceux qui dément </li>
+                    <li><a href="#">Alexandre Delaigue</a></li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header"> </li>
+                    <li><a href="#">Serge Latouche</a></li>
+                    <li><a href="#">Le consommateur</a></li>
+        
+                  </ul>
+                </li>
+                <!--  Environnement ================================================== -->
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Environnement <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a href="#">Epuisement des ressourses</a></li>
+                    <li><a href="#">LCD/TRANSPORT/RECHAUFFEMENT FIXME</a></li>
+                    <li><a href="#">Déchets et surproduction</a></li>
+                    <li><a href="#">Economie circulaire</a></li>
+                    <li><a href="#">Loi sur transition énergétique</a></li>
+                  </ul>
+                </li>
+                <!--  Initiaties ================================================== -->
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Initiatives <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a href="#">Projet Ara, Phoneblocks</a></li>
+                    <li><a href="#">Association, sites de réparation</a></li>
+                  </ul>
+                </li>
+
+                <li><a href="#about">A propos</a></li>
+
               </ul>
             </div>
           </div>
