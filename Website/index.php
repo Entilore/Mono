@@ -17,11 +17,12 @@
           </div>
         </div>
         <div class="item">  <!-- Recopier le div, un par image -->
-          <img src="assets/Ford-T_slider.jpg" alt="2nd slide">
+          <a href="modele-detroit.php"><img src="assets/Ford-T_slider.jpg" alt="2nd slide">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
+          </a>
         </div>
       </div>
       <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
