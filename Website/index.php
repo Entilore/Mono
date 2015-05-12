@@ -17,7 +17,7 @@
           </div>
         </div>
         <div class="item">  <!-- Recopier le div, un par image -->
-          <img src="assets/#" alt="2nd slide">
+          <img src="assets/Ford-T_slider.jpg" alt="2nd slide">
           <div class="container">
             <div class="carousel-caption">
             </div>
