@@ -35,9 +35,6 @@
     </div>
     </div><!-- /.carousel -->
 
-
-
-
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
     <div class="container">
@@ -56,8 +53,6 @@
         </div>
       </div>
 
-      <hr class="featurette-divider">
-
       <div class="row featurette">
         <div class="col-md-5">
           <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/ara.jpg">
@@ -67,8 +62,9 @@
           <p class="lead">L’innovation, qu’elle soit technologique ou esthétique, est donc une cause d’obsolescence. L’obsolescence des produits déclenche le renouvellement de ses derniers. On peut alors se demander si rendre les produits un peu plus fragile peut augmenter les profits des entreprises. D’une autre part la question de l’obsolescence psychologique subsiste. Peut on qualifier d’obsolescence programmée le remplacement d’un produit qui était encore fonctionnel ? La mode est-elle un instrument des entreprises, plus qu’un moyen de se différencier, pour pousser à la consommation ?</p>
         </div>
       </div>
-      <hr class="featurette-divider">
+
+    <iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=1EEysDek1Cjcggc8qj7dkOftniT-Tz8hOj4ipZAK5Fmc&font=Bevan-PotanoSans&maptype=toner&lang=en&height=650' width='100%' height='650' frameborder='0'></iframe> 
 
       <!-- /END THE FEATURETTES -->
 
-<?php  include("footer.php");       ?>
+<?php include("footer.php"); ?>
