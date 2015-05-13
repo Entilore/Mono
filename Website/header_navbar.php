@@ -67,7 +67,7 @@
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Acteurs <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
 
-                    <li class="dropdown-header">Ceux qui dément </li>
+                    <li class="dropdown-header">Ceux qui démentent </li>
                     <li><a href="#">Alexandre Delaigue</a></li>
                     <li class="divider"></li>
                     <li class="dropdown-header"> </li>
@@ -80,9 +80,9 @@
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Environnement <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
-                    <li><a href="#">Epuisement des ressourses</a></li>
+                    <li><a href="environnement.php#epuisement">Epuisement des ressourses</a></li>
                     <li><a href="#">LCD/TRANSPORT/RECHAUFFEMENT FIXME</a></li>
-                    <li><a href="#">Déchets et surproduction</a></li>
+                    <li><a href="environnement.php#dechets">Déchets et surproduction</a></li>
                     <li><a href="#">Economie circulaire</a></li>
                     <li><a href="#">Loi sur transition énergétique</a></li>
                   </ul>
