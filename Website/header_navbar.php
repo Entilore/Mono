@@ -55,11 +55,11 @@
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Exemples <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
-                      <li><a href="#">Imprimantes</a></li>
-                      <li><a href="#">Produits Apple</a></li>
-                      <li><a href="#">Ampoules</a></li>
-                      <li><a href="#">Bas Nylon</a></li>
-                      <li><a href="#">Modèle de Détroit</a></li>
+                      <li><a href="exemples.php#imprimante">Imprimantes</a></li>
+                      <li><a href="exemples.php#apple">Produits Apple</a></li>
+                      <li><a href="exemples.php#ampoule">Ampoules</a></li>
+                      <li><a href="exemples.php#bas-nylon">Bas Nylon</a></li>
+                      <li><a href="exemples.php#detroit">Modèle de Détroit</a></li>
                   </ul>
                 </li>
                 <!-- Les Acteurs ================================================== -->
