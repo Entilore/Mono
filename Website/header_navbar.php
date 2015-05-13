@@ -36,7 +36,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">L'obsolescence programmée</a>
+              <a class="navbar-brand" href="/">L'obsolescence programmée</a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
@@ -53,7 +53,7 @@
 
                 <!-- Exemples d'OP ================================================== -->
                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Exemples <span class="caret"></span></a>
+                  <a href="exemples.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Exemples <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
                       <li><a href="exemples.php#imprimante">Imprimantes</a></li>
                       <li><a href="exemples.php#apple">Produits Apple</a></li>
@@ -78,7 +78,7 @@
                 </li>
                 <!--  Environnement ================================================== -->
                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Environnement <span class="caret"></span></a>
+                  <a href="environnement.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Environnement <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
                     <li><a href="environnement.php#epuisement">Epuisement des ressourses</a></li>
                     <li><a href="#">LCD/TRANSPORT/RECHAUFFEMENT FIXME</a></li>
@@ -89,9 +89,9 @@
                 </li>
                 <!--  Initiaties ================================================== -->
                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Initiatives <span class="caret"></span></a>
+                  <a href="initiatives.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Initiatives <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
-                    <li><a href="#">Projet Ara, Phoneblocks</a></li>
+                    <li><a href="initiatives.php#ara">Projet Ara, Phoneblocks</a></li>
                     <li><a href="#">Association, sites de réparation</a></li>
                   </ul>
                 </li>
