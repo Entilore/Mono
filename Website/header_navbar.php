@@ -96,7 +96,7 @@
                   </ul>
                 </li>
 
-                <li><a href="#about">A propos</a></li>
+                <li><a href="a-propos.php">A propos</a></li>
 
               </ul>
             </div>
