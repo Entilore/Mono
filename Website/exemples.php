@@ -84,12 +84,12 @@
 
       <div class="row">
         <div class="col-md-6">
-          <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/guiyu.jpg">
-          <figcaption><strong>GRAPHE IPHONE</strong></figcaption>
+          <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/iphone-slow.jpg">
+          <figcaption>Les recherches "iPhone slow"</figcaption>
         </div>
         <div class="col-md-6">
-          <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/guiyu.jpg">
-          <figcaption><strong>GRAPHE SAMSUNG</strong></figcaption>
+          <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/samsung-slow.jpg">
+          <figcaption>Les recherches "Samsung slow"</figcaption>
         </div>
       </div>
 
