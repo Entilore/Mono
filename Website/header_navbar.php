@@ -43,11 +43,11 @@
                 
                 <!-- Définitions ================================================== -->
                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Définitions <span class="caret"></span></a>
+                  <a href="definition.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Définitions <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
-                    <li><a href="#">Obsolescence programmée</a></li>
-                    <li><a href="#">Démarche mercatique</a></li>
-                    <li><a href="#">Qualité</a></li>
+                    <li><a href="definition.php#definition">Obsolescence programmée</a></li>
+                    <li><a href="definition.php#">Démarche mercatique</a></li>
+                    <li><a href="definition.php#qualite">Qualité</a></li>
                   </ul>
                 </li>
 
