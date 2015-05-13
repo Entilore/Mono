@@ -17,7 +17,7 @@
           </div>
         </div>
         <div class="item">  <!-- Recopier le div, un par image -->
-          <a href="modele-detroit.php"><img src="assets/Ford-T_slider.jpg" alt="2nd slide">
+          <a href="exemples.php#detroit"><img src="assets/Ford-T_slider.jpg" alt="2nd slide">
           <div class="container">
             <div class="carousel-caption">
             </div>
