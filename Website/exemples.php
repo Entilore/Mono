@@ -96,7 +96,7 @@
     <div class="row">
         <div class="col-md-12">
           <p class="lead">
-            Il faut cependant prendre ces exemples avec des du recul. Tout d’abord Samsung ne gère pas lui même les mises à jour des systèmes android. Mais Samsung est elle aussi une entreprise montrée du doigt sur des cas présumé d’obsolescence programmée (cas des condensateurs de certaines télés). Il faut prendre en compte que l’innovation est cause d’obsolescence, et que l’implémentation de technologies nouvelles augmente le risque d’erreur d'ingénierie. Or Samsung et Apple font partie des entreprises les plus innovantes au monde.
+            Il faut cependant prendre ces exemples avec des du recul. Tout d’abord Samsung ne gère pas lui même les mises à jour des systèmes android. Mais Samsung est elle aussi une entreprise montrée du doigt sur des cas présumé d’obsolescence programmée (cas des condensateurs de certaines télévisions). Il faut prendre en compte que l’innovation est cause d’obsolescence, et que l’implémentation de technologies nouvelles augmente le risque d’erreur d'ingénierie. Or Samsung et Apple font partie des entreprises les plus innovantes au monde.
           </p>
         </div>
       </div>
