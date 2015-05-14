@@ -10,8 +10,8 @@
     
       <div class=row>
         <div class="col-md-3">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/ecrans.jpg">
-              <figcaption><strong>IMAGE A CHANGER</strong></figcaption>
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/nylon.jpg">
+              <figcaption><strong>Bas Nylon</strong></figcaption>
         </div>
     
         <div class="col-md-9">
@@ -30,8 +30,8 @@
           </p>
         </div>
         <div class="col-md-3">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/guiyu.jpg">
-              <figcaption>IMAGE A CHANGER</figcaption>
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/basnylon.jpg">
+              
         </div>
       </div>
     

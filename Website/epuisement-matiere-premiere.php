@@ -24,14 +24,14 @@ L’extraction et le raffinage de ces ressources a un lourd impact environnement
       </div>
       
       <div class=row>
-        <div class="col-md-9">
+        <div class="col-md-8">
           <p class="lead">Et les conséquences ne se sont pas faites attendre : les produits utilisés pour l’extraction et les radiations produites ont intoxiqué les populations locales.
 Les Terres Rares ne sont malheureusement qu’un exemple parmi d’autres. L’extraction de l’aluminium ou du pétrole sont également particulièrement dangereuses pour l’environnement. <a href="#" target="_blank">Voir notre monographie</a>
           </p>
         </div>
-        <div class="col-md-3">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/guiyu.jpg">
-              <figcaption><strong>IMAGE A CHANGER</strong></figcaption>
+        <div class="col-md-4">
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/mine.jpg">
+              <figcaption><strong>La mine Bayan Obo en Chine.</strong> Google Earth</figcaption>
         </div>
       </div>
     

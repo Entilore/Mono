@@ -7,11 +7,11 @@
       <h2>Déchets / Surproduction</h2>
       <p class="lead">Après leur fabrication <LIEN Environnement production> et leur utilisation, les produits sont bien évidemment jetés. Cependant de nos jours, la gestion de ces déchets est particulièrement problématique.
      </p>
-    
+     <br>
       <div class=row>
-        <div class="col-md-3">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/ecrans.jpg">
-              <figcaption><strong>IMAGE A CHANGER</strong></figcaption>
+        <div class="col-md-2">
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/deee.jpg">
+             
         </div>
     
         <div class="col-md-9">
