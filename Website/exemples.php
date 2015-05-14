@@ -13,8 +13,9 @@
     
       <div class=row>
         <div class="col-md-3">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/tonnaire.jpg">
-              <figcaption>Déchets des tonnaires</figcaption>
+          <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/cartouche.jpg">
+          <figcaption>Déchets des cartouches</figcaption>
+              
         </div>
     
         <div class="col-md-9">
@@ -30,9 +31,8 @@
           <p class="lead">C’est ce qu’a réussi à faire un Russe #NOM#. Il a créé et rendu public un logiciel permettant de remettre à zéro la pièce responsable de la panne de la machine. Et effectivement, l’imprimante devient de nouveau fonctionnelle après la manipulation.
           </p>
         </div>
-        <div class="col-md-3">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/cartouche.jpg">
-              <figcaption>Déchets des cartouches</figcaption>
+        <div class="col-md-3"><img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/tonnaire.jpg">
+              <figcaption>Déchets des tonnaires</figcaption>
         </div>
       </div>
 
@@ -53,7 +53,7 @@
       <div class=row>
         <div class="col-md-2">
               <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/ipod.png">
-              <figcaption>Ipod</figcaption>
+              <figcaption>Un Ipod</figcaption>
         </div>
     
         <div class="col-md-10">
