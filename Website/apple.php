@@ -10,12 +10,12 @@
     
       <div class=row>
         <div class="col-md-2">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/Ford-T.jpg">
-              <figcaption><strong>IMAGE A CHANGER</strong></figcaption>
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/ipod.png">
+              <figcaption><strong>Ipod</strong></figcaption>
         </div>
     
         <div class="col-md-10">
-          <p class="lead">Le premier exemple est l'iPod, dont la batterie n'était pas remplaçable pour les 1ère, 2ème et 3ème générations. Un client Apple qui voyait la batterie de son iPod inutilisable devait racheter un baladeur neuf. A la suite d’un procès intenté par Elizabeth Pritzyker, Apple met finalement en place une politique de remplacement des batteries.
+          <p class="lead"><br>Le premier exemple est l'iPod, dont la batterie n'était pas remplaçable pour les 1ère, 2ème et 3ème générations. Un client Apple qui voyait la batterie de son iPod inutilisable devait racheter un baladeur neuf. A la suite d’un procès intenté par Elizabeth Pritzyker, Apple met finalement en place une politique de remplacement des batteries.
 
            </p>
         </div>
@@ -23,12 +23,13 @@
       
       <div class=row>
         <div class="col-md-10">
-          <p class="lead">Malgré la norme USB imposée aux fabricants de smartphones par l’Union Européenne, Apple a toujours utilisé ses propres connecteurs, tout en changeant la forme du connecteur d’une génération à une autre, exigeant le rachat des adaptateurs et des accessoires.
+		
+          <p class="lead"><br>Malgré la norme USB imposée aux fabricants de smartphones par l’Union Européenne, Apple a toujours utilisé ses propres connecteurs, tout en changeant la forme du connecteur d’une génération à une autre, exigeant le rachat des adaptateurs et des accessoires.
           </p>
         </div>
         <div class="col-md-2">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/guiyu.jpg">
-              <figcaption><strong>IMAGE A CHANGER</strong></figcaption>
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/cable.jpg">
+              <figcaption><strong>Cables Iphone</strong></figcaption>
         </div>
       </div>
 
@@ -42,12 +43,12 @@
 
       <div class="row">
         <div class="col-md-6">
-          <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/guiyu.jpg">
-          <figcaption><strong>IMAGE A CHANGER</strong></figcaption>
+          <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/iphone-slow.jpg">
+          
         </div>
         <div class="col-md-6">
-          <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/guiyu.jpg">
-          <figcaption><strong>IMAGE A CHANGER</strong></figcaption>
+          <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/samsung-slow.jpg">
+         
         </div>
       </div>
 
