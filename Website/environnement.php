@@ -36,8 +36,8 @@ Les Terres Rares ne sont malheureusement qu’un exemple parmi d’autres. L’e
           </p>
         </div>
         <div class="col-md-3">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/guiyu.jpg">
-              <figcaption><strong>IMAGE A CHANGER</strong></figcaption>
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/mine.jpg">
+              <figcaption>La mine Bayan Obo en Chine. <small>Source : Google Maps</small></figcaption>
         </div>
       </div>
     
@@ -51,8 +51,7 @@ Les Terres Rares ne sont malheureusement qu’un exemple parmi d’autres. L’e
     
       <div class=row>
         <div class="col-md-3">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/ecrans.jpg">
-              <figcaption><strong>IMAGE A CHANGER</strong></figcaption>
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/deee.jpg">
         </div>
     
         <div class="col-md-9">
