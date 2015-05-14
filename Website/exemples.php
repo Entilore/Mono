@@ -13,8 +13,8 @@
     
       <div class=row>
         <div class="col-md-3">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/Ford-T.jpg">
-              <figcaption>Un des premiers modèles de Ford T</figcaption>
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/tonnaire.jpg">
+              <figcaption>Déchets des tonnaires</figcaption>
         </div>
     
         <div class="col-md-9">
@@ -31,8 +31,8 @@
           </p>
         </div>
         <div class="col-md-3">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/guiyu.jpg">
-              <figcaption><strong>IMAGE A CHANGER</strong></figcaption>
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/cartouche.jpg">
+              <figcaption>Déchets des cartouches</figcaption>
         </div>
       </div>
 
@@ -52,8 +52,8 @@
     
       <div class=row>
         <div class="col-md-2">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/Ford-T.jpg">
-              <figcaption><strong>IMAGE A CHANGER</strong></figcaption>
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/ipod.png">
+              <figcaption>Ipod</figcaption>
         </div>
     
         <div class="col-md-10">
@@ -69,8 +69,8 @@
           </p>
         </div>
         <div class="col-md-2">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/guiyu.jpg">
-              <figcaption><strong>IMAGE A CHANGER</strong></figcaption>
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/cable.jpg">
+              <figcaption>Cables Iphone</figcaption>
         </div>
       </div>
 
@@ -101,7 +101,9 @@
         </div>
       </div>
     
+
       <hr>
+
 
       <h2 id="ampoule">L'ampoule de Livermore </h2>
       <p class="lead">L’ampoule est l’un des premiers exemples de l’obsolescence programmée. Apparu suite au cartel Phoebus, où les 
@@ -111,8 +113,8 @@
     
       <div class=row>
         <div class="col-md-3">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/Ford-T.jpg">
-              <figcaption>Un des premiers modèles de Ford T</figcaption>
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/livermore.jpg">
+              <figcaption>L’ampoule de Livermore</figcaption>
         </div>
     
         <div class="col-md-9">
@@ -136,8 +138,8 @@
           </p>
         </div>
         <div class="col-md-3">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/guiyu.jpg">
-              <figcaption><strong>IMAGE A CHANGER</strong></figcaption>
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/led.jpg">
+              <figcaption>Lampe LED</figcaption>
         </div>
       </div>
 
@@ -154,7 +156,9 @@
         </div>
       </div>
     
+
       <hr>
+
 
       <h2 id="bas-nylon">L'exemple des Bas Nylons : </h2>
       <p class="lead">Les bas nylons sont un exemple bien connu des défenseurs de l’idée de l’obsolescence programmée. Ils ont été cités dans le documentaire <a href="http://www.arte.tv/fr/pret-a-jeter/3714422,CmC=3714270.html" target="_blank"><i>Prêt à jeter</i></a> de Cosima Dannoritzer . 
@@ -162,8 +166,8 @@
     
       <div class=row>
         <div class="col-md-3">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/ecrans.jpg">
-              <figcaption><strong>IMAGE A CHANGER</strong></figcaption>
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/nylon.jpg">
+              <figcaption>Bas Nylon</figcaption>
         </div>
     
         <div class="col-md-9">
@@ -182,8 +186,7 @@
           </p>
         </div>
         <div class="col-md-3">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/guiyu.jpg">
-              <figcaption>IMAGE A CHANGER</figcaption>
+          <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/basnylon.jpg">
         </div>
       </div>
 
@@ -216,8 +219,8 @@ La volonté de Henry Ford était d’avoir une voiture robuste mais peu chère. 
           </p>
         </div>
         <div class="col-md-3">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/guiyu.jpg">
-              <figcaption><strong>IMAGE A CHANGER</strong></figcaption>
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/sloan.jpg">
+              <figcaption>Alfred Sloan</figcaption>
         </div>
       </div>
     
