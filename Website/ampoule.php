@@ -10,9 +10,9 @@
      </p>
     
       <div class=row>
-        <div class="col-md-3">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/Ford-T.jpg">
-              <figcaption>Un des premiers modèles de Ford T</figcaption>
+        <div class="col-md-2">
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/livermore.jpg">
+              <figcaption>L’ampoule de Livermore</figcaption>
         </div>
     
         <div class="col-md-9">
@@ -35,9 +35,9 @@
             consommer 60 watt, mais aujourd’hui, elle a une puissance de 4 watt. 
           </p>
         </div>
-        <div class="col-md-3">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/guiyu.jpg">
-              <figcaption><strong>IMAGE A CHANGER</strong></figcaption>
+        <div class="col-md-2">
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/led.jpg">
+              <figcaption><strong>Lampe LED</strong></figcaption>
         </div>
       </div>
 
