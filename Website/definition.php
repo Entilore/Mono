@@ -12,20 +12,20 @@
       <h2 id="definition">L'obsolescence programmée : </h2>
       <p class="lead"><strong>Définition :</strong> Pratique visant à réduire intentionnellement la durée de vie d’un produit, pour pousser le consommateur à le renouveler plus fréquemment. On distingue plusieurs types d’obsolescence programmée fonctionnelle :
       </p>
-      <ul>
+      <ul class="lead">
         <li>L’obsolescence de fonctionnement par utilisation de composant de mauvaise qualité. </li>
         <li>L’obsolescence indirecte, de part l’impossibilité de remplacer ou réparer un accessoire. </li>
         <li>L’obsolescence d’incompatibilité entre générations de produits. </li>
         <li>L’obsolescence de service après-vente, dans des cas particulier ou l’entreprise choisi de ne plus garantir l’exploitation du produit, alors qu’il est encore fonctionnel. Cet arrêt inciterai le consommateur au remplacement des produits pour la génération suivante. <strong>/*LIEN*/</strong>.</li>
       </ul>
-      <p class="lead">L’obsolescence psychologique est parfois intégré au concept d’obsolescence programmée.
+      <p class="lead">L’obsolescence psychologique est parfois intégrée au concept d’obsolescence programmée.
       </p>
 
       <hr>
 
 
       <h2 id="obs-psychologique">L'obsolescence psychologique : </h2>
-      <p class="lead">Un autre aspect de l’obsolescence programmée et l’impact de la publicité sur le consommateur. En effet, on peut parfois intégré au concept d’obsolescence programmée l’obsolescence psychologique. La duperie est d’autant plus grande que le consommateur change son appareil alors qu’il peut être encore fonctionnel, pour des raisons qui peuvent l’induise en erreur. 
+      <p class="lead">Un autre aspect de l’obsolescence programmée est l’impact de la publicité sur le consommateur. En effet, on peut parfois intégrer au concept d’obsolescence programmée l’obsolescence psychologique. La duperie est d’autant plus grande que le consommateur change son appareil alors qu’il peut être encore fonctionnel.
       </p>
     
       <div class=row>
