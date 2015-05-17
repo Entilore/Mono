@@ -61,16 +61,17 @@
           </p>
         </div>
       </div>
-      
+      <br><br>
       <div class=row>
         <div class="col-md-9">
           <p class="lead">
-
+            Il existe également des associations qui proposent les mêmes services. Les Repair Café en sont un bon exemple. Il s’agit d’amener nos produits defectueux et de rencontrer des professionnels présents. Ceux-ci essaient plus d’expliquer comment réparer que de réellement réparer. L’échange est mutuel, tout le monde apprend. 
+On a également l’exemple des Fab Labs. Ces établissements mettent à disposition des outils, des machines et parfois même des imprimantes 3D. L’ambiance est à l’entraide, celui qui a besoin demande assistance. On peut ainsi réparer mais également créer, concevoir un prototype, ...
           </p>
         </div>
         <div class="col-md-3">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/guiyu.jpg">
-              <figcaption><strong>IMAGE A CHANGER</strong></figcaption>
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/logofablab.jpg">
+              <figcaption>Le logo des Fab Labs</figcaption>
         </div>
       </div>
 
