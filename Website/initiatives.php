@@ -41,7 +41,7 @@
       <hr>
 
 
-      <h2 id="ara">Les associations et sites de réparation : </h2>
+      <h2 id="reparation">Les associations et sites de réparation : </h2>
     
       <p class="lead">
         Quand un bien électrique que nous possèdons nous lâche, la plupart du temps on le jette. En effet la réparation coûte parfois plus cher que le prix d’achat Ou la pièce nécessaire n’est plus disponible. On abandonne donc et on jette nos produits. 
