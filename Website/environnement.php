@@ -22,7 +22,7 @@
         </div>
     
         <div class="col-md-9">
-          <p class="lead">L’exemple des Terres Rares est le plus frappant <strong>/* LIEN Terres Rares */</strong>. Il s’agit d’un ensemble d’élément chimiques, découverts assez récemment. Très peu utilisées il y a quelques décénnies, elles sont devenues indispensables à notre mode de vie. Colorants, aimants, elles servent à la fabrication de la plupart de nos appareils électroniques.
+          <p class="lead">L’exemple des Terres Rares est le plus frappant. Il s’agit d’un ensemble d’élément chimiques, découverts assez récemment. Très peu utilisées il y a quelques décénnies, elles sont devenues indispensables à notre mode de vie. Colorants, aimants, elles servent à la fabrication de la plupart de nos appareils électroniques.
 L’extraction et le raffinage de ces ressources a un lourd impact environnemental,  ainsi les pays du nord économique ont décidé de ne plus les extraire. En effet les normes environnementales plus drastiques empèchent d’avoir un prix de revient intéressant pour les entreprises. En Chine cependant elles ne sont pas soumises aux mêmes contraintes. Ainsi le pays  représente à lui seul 97% de la production mondiale.
 
            </p>
