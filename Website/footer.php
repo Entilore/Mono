@@ -2,7 +2,7 @@
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2015 INSA de Rennes - Maximilien R.  &middot; <a href="#">Disclamer</a></p>
+        <p>&copy; 2015 INSA de Rennes - Maximilien R.  &middot; <a href="#">Disclaimer</a></p>
       </footer>
 
     </div><!-- /.container -->
