@@ -29,22 +29,22 @@
       </div>
       
       <div class=row>
-        <div class="col-md-10">
+        <div class="col-md-9">
 		
           <p class="lead">	
           	D’un autre côté, l’obsolescence n’est peut-être liée qu’à la diminution des coûts. Un réfrigérateur de bonne qualité a possiblement le même prix qu’un réfrigérateur d’aujourd’hui. Mais le consommateur en préfère un moins cher, au risque de le changer régulièrement. C’est l’un des problèmes majeurs auxquels sont confrontés les consommateurs : acheter un produit moins cher et le remplacer régulièrement ou prendre le risque d’en acheter un plus cher et espérer qu’il tienne plus longtemps.
           </p>
         </div>
-        <div class="col-md-2">
-              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/cable.jpg">
-              <figcaption><strong>Cables Iphone</strong></figcaption>
+        <div class="col-md-2 col-md-offset-1">
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/La-Decroissance.jpg">
+              <figcaption>Le Journal La Décroissance</figcaption>
         </div>
       </div>
 
       <div class="row">
         <div class="col-md-12">
           <p class="lead">
-          	Le consommateur doit aussi prendre ses responsabilités. Pour en revenir à la publicité, en effet celui-ci la subit, mais il peut également ne pas y succomber. Acheter des produits qui ne nous serviront pas, jeter un produit fonctionnel pour en avoir un nouveau plus à la mode, ce sont des choses qui se font de nos jours. Ce concept est parfois appelé obsolescence psychologique (<a href="definition.php#obs-psychologique">Voir notre définition</a>). Nous devons apprendre ou réapprendre à ne pas 
+          	Le consommateur doit aussi prendre ses responsabilités. Pour en revenir à la publicité, en effet celui-ci la subit, mais il peut également ne pas y succomber. Acheter des produits qui ne nous serviront pas, jeter un produit fonctionnel pour en avoir un nouveau plus à la mode, ce sont des choses qui se font de nos jours. Ce concept est parfois appelé obsolescence psychologique (<a href="definition.php#obs-psychologique">Voir notre définition</a>). Nous devons apprendre ou réapprendre à ne pas acheter inutilement et uniquement ce qui correspond à nos besoins immédiats.
           </p>
         </div>
       </div>
