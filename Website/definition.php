@@ -16,7 +16,7 @@
         <li>L’obsolescence de fonctionnement par utilisation de composant de mauvaise qualité. </li>
         <li>L’obsolescence indirecte, de part l’impossibilité de remplacer ou réparer un accessoire. </li>
         <li>L’obsolescence d’incompatibilité entre générations de produits. </li>
-        <li>L’obsolescence de service après-vente, dans des cas particulier ou l’entreprise choisi de ne plus garantir l’exploitation du produit, alors qu’il est encore fonctionnel. Cet arrêt inciterai le consommateur au remplacement des produits pour la génération suivante. <strong>/*LIEN*/</strong>.</li>
+        <li>L’obsolescence de service après-vente, dans des cas particulier où l’entreprise choisi de ne plus garantir l’exploitation du produit, alors qu’il est encore fonctionnel. Cet arrêt inciterai le consommateur au remplacement des produits pour la génération suivante. <strong>/*LIEN*/</strong>.</li>
       </ul>
       <p class="lead">L’obsolescence psychologique est parfois intégrée au concept d’obsolescence programmée.
       </p>
@@ -25,7 +25,7 @@
 
 
       <h2 id="obs-psychologique">L'obsolescence psychologique : </h2>
-      <p class="lead">Un autre aspect de l’obsolescence programmée est l’impact de la publicité sur le consommateur. En effet, on peut parfois intégrer au concept d’obsolescence programmée l’obsolescence psychologique. La duperie est d’autant plus grande que le consommateur change son appareil alors qu’il peut être encore fonctionnel.
+      <p class="lead">Un autre aspect de l’obsolescence programmée est l’impact de la publicité sur le consommateur. En effet, on peut parfois intégrer au concept d’obsolescence programmée celui l’obsolescence psychologique. La duperie est d’autant plus grande que le consommateur change son appareil alors qu’il peut être encore fonctionnel.
       </p>
     
       <div class=row>
@@ -37,7 +37,7 @@
 
       <div class=row>
         <div class="col-md-12">
-          <p class="lead">Ce qu’il ignore, c’est que l’empreinte carbone de production est bien plus importante que l’empreinte carbone d’utilisation. Par exemple, il faudrait utiliser son ordinateur Fujitsu Esprimo E9900 avec écran plat moyen Enertech pendant 70 ans en france pour atteindre l’empreinte carbone de production de ce dernier (339 kg eq. CO2). <strong>Il faut donc bien réfléchir avant de changer son ordinateur pour des raisons écologiques.</strong>
+          <p class="lead">Ce qu’il ignore, c’est que l’empreinte carbone de production est bien plus importante que l’empreinte carbone d’utilisation. Par exemple, il faudrait utiliser son ordinateur Fujitsu Esprimo E9900 avec écran plat moyen Enertech pendant 70 ans en France pour atteindre l’empreinte carbone de production de ce dernier (339 kg eq. CO2). <strong>Il faut donc bien réfléchir avant de changer son ordinateur pour des raisons écologiques.</strong>
           </p>
         </div>
       </div>
