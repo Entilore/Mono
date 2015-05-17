@@ -88,11 +88,11 @@
                   <ul class="dropdown-menu" role="menu">
 
                     <li class="dropdown-header">Ceux qui démentent </li>
-                    <li><a href="#">Alexandre Delaigue</a></li>
+                    <li><a href="acteurs.php#">Alexandre Delaigue</a></li>
                     <li class="divider"></li>
                     <li class="dropdown-header"> </li>
-                    <li><a href="#">Serge Latouche</a></li>
-                    <li><a href="#">Le consommateur</a></li>
+                    <li><a href="acteurs.php#">Serge Latouche</a></li>
+                    <li><a href="acteurs.php#consommateur">Le consommateur</a></li>
         
                   </ul>
                 </li>
@@ -112,7 +112,7 @@
                   <a href="initiatives.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Initiatives <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
                     <li><a href="initiatives.php#ara">Projet Ara, Phoneblocks</a></li>
-                    <li><a href="#">Association, sites de réparation</a></li>
+                    <li><a href="initiatives.php#reparation">Association, sites de réparation</a></li>
                   </ul>
                 </li>
 
