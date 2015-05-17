@@ -77,7 +77,7 @@
       <div class="row">
         <div class="col-md-12">
           <p class="lead">
-            Le phénomène “Iphone slow” est également troublant. En effet ceci correspond à l’étude de graphes représentant le nombre de recherches Google sur les lenteurs de son téléphone en fonction de la marque de ce dernier. On remarque que les pics de recherches correspondent chez Apple à la sortie du nouvel OS, destiné à la génération suivante d’iPhone. Certains parlent d’Obsolescence logicielle (intentionnelle), car en effet on remarque l’absence de pics pour les téléphones Samsung.
+            Le phénomène “Iphone slow” est également troublant. Les graphes ci-dessous représentent le nombre de recherches Google sur les lenteurs d'un téléphone en fonction de la marque de ce dernier. On remarque que les pics de recherches correspondent chez Apple à la sortie du nouvel OS, destiné à la génération suivante d’iPhone. Certains parlent d’Obsolescence logicielle (intentionnelle), car en effet on remarque l’absence de pics pour les téléphones Samsung.
           </p>
         </div>
       </div>
@@ -96,7 +96,7 @@
     <div class="row">
         <div class="col-md-12">
           <p class="lead">
-            Il faut cependant prendre ces exemples avec des du recul. Tout d’abord Samsung ne gère pas lui même les mises à jour des systèmes android. Mais Samsung est elle aussi une entreprise montrée du doigt sur des cas présumé d’obsolescence programmée (cas des condensateurs de certaines télévisions). Il faut prendre en compte que l’innovation est cause d’obsolescence, et que l’implémentation de technologies nouvelles augmente le risque d’erreur d'ingénierie. Or Samsung et Apple font partie des entreprises les plus innovantes au monde.
+            Il faut cependant prendre ces exemples avec du recul. Tout d’abord Samsung ne gère pas lui même les mises à jour des systèmes android. Mais Samsung est elle aussi une entreprise montrée du doigt sur des cas présumé d’obsolescence programmée (cas des condensateurs de certaines télévisions). Il faut prendre en compte que l’innovation est cause d’obsolescence, et que l’implémentation de technologies nouvelles augmente le risque d’erreur d'ingénierie. Or Samsung et Apple font partie des entreprises les plus innovantes au monde.
           </p>
         </div>
       </div>
@@ -106,7 +106,7 @@
 
 
       <h2 id="ampoule">L'ampoule de Livermore </h2>
-      <p class="lead">L’ampoule est l’un des premiers exemples de l’obsolescence programmée. Apparu suite au cartel Phoebus, où les 
+      <p class="lead">L’ampoule est l’un des premiers exemples de l’obsolescence programmée. Il est apparu suite au cartel Phoebus, où les 
         grands constructeurs d’ampoules, l’américain General Electric, l’allemand Osram, Philips et d’autres, se sont mis d’accord
          pour réduire la durée de vie des lampes à filament.
      </p>
@@ -136,6 +136,10 @@
             fonctionne-t-elle toujours ? C’est grâce à sa faible luminosité et sa basse consommation. Cette ampoule était concue pour 
             consommer 60 watt, mais aujourd’hui, elle a une puissance de 4 watt. 
           </p>
+          <p class="lead">
+            Des études ont montré que l’ampoule de Livermore ne produit que 0,3 % de sa luminosité originale. Or moins la lampe est 
+            lumineuse, plus sa durée de vie est importante.
+          </p>
         </div>
         <div class="col-md-3">
               <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/led.jpg">
@@ -145,10 +149,6 @@
 
       <div class="row">
         <div class="col-md-12">
-          <p class="lead">
-            Des études ont montré que l’ampoule de Livermore ne produit que 0,3 % de sa luminosité originale. Or moins la lampe est 
-            lumineuse, plus sa durée de vie est importante.
-          </p>
           <p class="lead">
             Aujourd’hui, avec le progrès technologique, on trouve des lampes plus durables comme les lampes à diode electroluminescente 
             ou LED en anglais, une ampoule à la fois durable et à basse consommation.
@@ -171,8 +171,8 @@
         </div>
     
         <div class="col-md-9">
-          <p class="lead"> En 1940, l’entreprise américaine Du Pont de Nemours lance le bas nylon qui devient un succès commercial immédiat. Le nylon, inventé cinq ans plus tôt par la même entreprise, permet aux bas de ne plus filer, d’être plus résistants et d’être moins cher que les bas habituels en soie. 
-    Le bas nylon fut cependant victime de son succès et sa forte résistance fit stagner les ventes. En effet il fallait plusieurs mois avant qu’un bas soit finisse par s’user. D’après le documentaire, l’entreprise décida de changer la formule originale afin de le rendre plus fragile. La dose d’additifs qui protégaient les bas contre les rayons UltraViolets fut diminuée afin de réduire leur durée de vie. Ils étaient ainsi moins résistants au soleil et se dégradaient plus rapidement. 
+          <p class="lead"> En 1940, l’entreprise américaine Du Pont de Nemours lance le bas nylon qui devient un succès commercial immédiat. Le nylon, inventé cinq ans plus tôt par la même entreprise, permet aux bas de ne plus filer, d’être plus résistants et d’être moins chers que les bas habituels en soie. 
+    Le bas nylon fut cependant victime de son succès et sa forte résistance fit stagner les ventes. En effet il fallait plusieurs mois avant qu’un bas finisse par s’user. D’après le documentaire, l’entreprise décida de changer la formule originale afin de le rendre plus fragile. La dose d’additifs qui protégaient les bas contre les rayons UltraViolets (U.V.) fut diminuée afin de réduire leur durée de vie. Ils étaient ainsi moins résistants au soleil et se dégradaient plus rapidement. 
 <a href="http://obsolescence-programmee.fr/exemples-symboliques/bas-nylon-de-dupont-de-nemours" target="_blank">Vers obsolescence-programmee.fr</a>
 
            </p>
@@ -193,7 +193,7 @@
       <hr>
 
       <h2 id="detroit">Le modèle de Détroit : </h2>
-      <p class="lead">Tout le monde connaît la Ford T, emblème de la société de consommation, et apparue en 1908. Cette voiture fut une révolution à elle toute seule : la première à être produite de façon industrielle et à bas coûts. Henry Ford  a introduit le travail à la chaîne pour la production ce qui a permis d’abaisser considérablement le prix de ce modèle.
+      <p class="lead">Tout le monde connaît la Ford T, emblème de la société de consommation. Apparue en 1908, cette voiture fut une révolution à elle toute seule : la première à être produite de façon industrielle et à bas coûts. Henry Ford  a introduit le travail à la chaîne pour la production ce qui a permis d’abaisser considérablement le prix de ce modèle.
      </p>
     
       <div class=row>
@@ -215,7 +215,7 @@ La volonté de Henry Ford était d’avoir une voiture robuste mais peu chère. 
       <div class=row>
         <div class="col-md-9">
           <p class="lead">
-            En effet la voiture était auparavant un luxe. Celles-ci étaient fabriquée par des ouvriers spécialisés capables de la construire entièrement par eux-même. Le prix était donc plus important. Désormais, chaque ouvrier avait sa tâche spécifique, qu’il effectuait toute la journée de façon répétitive. Par exemple la tâche de fixer deux boulons sur la carosserie était assignée à une seule personne. Qu'elle effectuait toute la journée.
+            En effet la voiture était auparavant un luxe. Celles-ci étaient fabriquées par des ouvriers spécialisés capables de la construire entièrement par eux-même. Le prix était donc plus important. Désormais, chaque ouvrier avait sa tâche spécifique, qu’il effectuait toute la journée de façon répétitive. Par exemple la tâche de fixer deux boulons sur la carosserie était assignée à une seule personne.
           </p>
           <p class="lead">
             Devant le succès de la Ford T, Alfred Sloan, alors directeur de General Motors, décida de tenter une autre approche. Plutôt que de produire la même voiture, il a lancé de nouveaux modèles périodiquement de façon à pousser les consommateurs à l’achat. En 1923 le premier sortit des usines. Les voitures, moins robustes, tombèrent souvent en panne après quelques années. De façon à laisser les acheteurs le temps de rembourser leur crédit.  Après avoir tenté vainement de garder l’idée de produits robustes, le succès de Sloan obliga Henry Ford à adopter sa méthode. La marque décida donc de se lancer dans la production d’autres voitures, comme le modèle A.
