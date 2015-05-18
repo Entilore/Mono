@@ -10,7 +10,7 @@
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img src="assets/slider.jpg" alt="First slide">
+          <img src="assets/slider-mono.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
             </div>
