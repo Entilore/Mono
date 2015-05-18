@@ -9,7 +9,7 @@
 
 
     <!-- Wrap the rest of the page in another container to center all the content. -->
-      <h2 id="epuisement">L’épuisement des matières premières :</h2>
+      <h2 id="epuisement">L’épuisement des matières premières</h2>
       <p class="lead">La recherche de matière première est telle que certaines tendent à manquer. L’Union Européene a présenté un rapport <a href="http://ec.europa.eu/enterprise/policies/raw-materials/files/docs/report-b_en.pdf" target="_blank">(en anglais)</a> présentant une liste des matériaux considérés comme critiques. On en remarque plusieurs, comme le platine, particulièrement utilisé dans l’automobile ainsi qu’en informatique, et les Terres Rares. 
         L’estimation des réserves d’or, d’aluminium et de cuivre est de plus en plus alarmante. Ces matériaux, par leur présence dans tous les produits électroniques sont plus qu’importants dans l’économie moderne.
 
