@@ -45,7 +45,7 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Introduction</h2>
+          <h2 class="featurette-heading">Avant toute chose...</h2>
           <p class="lead">L’obsolescence programmée est un concept du début du siècle dernier, redevenu sujet d’actualité avec le projet de loi visant à la sanctionner. L’hypothèse est que cette pratique est l’une des causes d’une durée de vie réduite des produits. Un produit devient obsolète par différents processus. Il peut d’une part tout simplement être abîmé, cassé ou être remplacé car ses fonctionnalités sont dépassées ou que son exploitation n’est plus possible (ex : fermeture du service Minitel le 30 juin 2012 <LIEN>). Dans les deux cas le produit n’est donc plus fonctionnel.
           </p>
         </div>
@@ -59,8 +59,8 @@
           <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/ara.jpg">
         </div>
         <div class="col-md-7">
-          <h2 class="featurette-heading">L'innovation<span class="text-muted"></span></h2>
-          <p class="lead">L’innovation, qu’elle soit technologique ou esthétique, est donc une cause d’obsolescence. L’obsolescence des produits déclenche le renouvellement de ses derniers. On peut alors se demander si rendre les produits un peu plus fragile peut augmenter les profits des entreprises. D’une autre part la question de l’obsolescence psychologique subsiste. Peut on qualifier d’obsolescence programmée le remplacement d’un produit qui était encore fonctionnel ? La mode est-elle un instrument des entreprises, plus qu’un moyen de se différencier, pour pousser à la consommation ?</p>
+          <h2 class="featurette-heading">Et linnovation ?<span class="text-muted"></span></h2>
+          <p class="lead">L’innovation, qu’elle soit technologique ou esthétique, peut donc être une cause d’obsolescence. Or l’obsolescence des produits déclenche le renouvellement de ses derniers. On peut alors se demander si rendre les produits un peu plus fragile peut augmenter les profits des entreprises. D’une autre part la question de l’obsolescence psychologique subsiste ; peut on qualifier d’obsolescence programmée le remplacement d’un produit qui était encore fonctionnel ? La mode est-elle un instrument des entreprises, plus qu’un moyen de se différencier, pour pousser à la consommation ?</p>
         </div>
       </div>
 
