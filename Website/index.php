@@ -7,10 +7,11 @@
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li> <!-- Ajouter ici une ligne par image, en incrémentant le data-slide-to -->
+        <li data-target="#myCarousel" data-slide-to="2"></li>
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img src="assets/slider-mono.jpg" alt="First slide">
+          <a href="definition.php#definition"><img src="assets/slider.jpg" alt="First slide"></a>
           <div class="container">
             <div class="carousel-caption">
             </div>
@@ -24,7 +25,15 @@
           </div>
           </a>
         </div>
+        <div class="item">
+          <a href="mono.php"><img src="assets/slider-mono.jpg" alt="Third slide"></a>
+          <div class="container">
+            <div class="carousel-caption">
+            </div>
+          </div>
+        </div>
       </div>
+
       <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
