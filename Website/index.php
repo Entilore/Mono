@@ -59,7 +59,7 @@
           <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/ara.jpg">
         </div>
         <div class="col-md-7">
-          <h2 class="featurette-heading">Et linnovation ?<span class="text-muted"></span></h2>
+          <h2 class="featurette-heading">Et l'innovation ?<span class="text-muted"></span></h2>
           <p class="lead">L’innovation, qu’elle soit technologique ou esthétique, peut donc être une cause d’obsolescence. Or l’obsolescence des produits déclenche le renouvellement de ses derniers. On peut alors se demander si rendre les produits un peu plus fragile peut augmenter les profits des entreprises. D’une autre part la question de l’obsolescence psychologique subsiste ; peut on qualifier d’obsolescence programmée le remplacement d’un produit qui était encore fonctionnel ? La mode est-elle un instrument des entreprises, plus qu’un moyen de se différencier, pour pousser à la consommation ?</p>
         </div>
       </div>
