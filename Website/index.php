@@ -64,6 +64,7 @@
         </div>
       </div>
 
+    <h2>Frise chronologique</h2>
     <iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=1EEysDek1Cjcggc8qj7dkOftniT-Tz8hOj4ipZAK5Fmc&font=Bevan-PotanoSans&maptype=toner&lang=en&height=650' width='100%' height='650' frameborder='0'></iframe> 
 
       <!-- /END THE FEATURETTES -->
