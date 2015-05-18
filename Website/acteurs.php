@@ -4,13 +4,13 @@
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
     <div class="container">
-      <h1>Les acteurs importants :</h1>
+      <h1>Les acteurs importants</h1>
 
 
       <hr>
 
 
-      <h2 id="consommateur">Le rôle du consommateur : </h2>
+      <h2 id="consommateur">Le rôle du consommateur</h2>
       <p class="lead">
       	Le consommateur a un rôle central dans la problématique de l’obsolescence programmée. 
       </p>

@@ -3,11 +3,11 @@
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
     <div class="container">
-      <h1>Les exemples troublants :</h1>
+      <h1>Les exemples troublants</h1>
 
       <hr>
 
-      <h2 id="imprimantes">L'exemple des imprimantes : </h2>
+      <h2 id="imprimante">L'exemple des imprimantes</h2>
       <p class="lead">Le fait le plus troublant d’obsolescence programmée présumée est très certainement celui des imprimantes. Alexandre Delaigue est un économiste réfutant la thèse de l’obsolescence programmée et considère lui même ce cas comme « un exemple curieux ».  En effet, il parait compliqué d’affirmer que le constructeur n’ait pas souhaité limiter la durée de vie de son produit.
      </p>
     
@@ -19,7 +19,7 @@
         </div>
     
         <div class="col-md-9">
-          <p class="lead">L’exemple a été, comme beaucoup d’autres, mis en évidence par le documentaire <i>Prêt à jeter</i>. Y est présenté un informaticien de Barcelone dont l’imprimante ne marche plus. Refusant d’acheter une nouvelle machine, l’espagnol se renseigne sur internet, et trouve la raison de sa panne : une puce électronique bloque l’appareil. Il s’agirait en fait d’un compteur, qui empêche l’engin d’imprimer après un certain nombre d’impressions. Si cette théorie est véridique, il devrait donc être possible de réinitialiser le compteur ?
+          <p class="lead">L’exemple a été, comme beaucoup d’autres, mis en évidence par le documentaire <a href="http://www.arte.tv/fr/pret-a-jeter/3714422,CmC=3714270.html" target="_blank"><i>Prêt à jeter</i></a>. Y est présenté un informaticien de Barcelone dont l’imprimante ne marche plus. Refusant d’acheter une nouvelle machine, l’espagnol se renseigne sur internet, et trouve la raison de sa panne : une puce électronique bloque l’appareil. Il s’agirait en fait d’un compteur, qui empêche l’engin d’imprimer après un certain nombre d’impressions. Si cette théorie est véridique, il devrait donc être possible de réinitialiser le compteur ?
 
 
            </p>
@@ -46,7 +46,7 @@
 
       <hr>
 
-      <h2 id="apple">Le cas Apple : </h2>
+      <h2 id="apple">Le cas Apple</h2>
       <p class="lead">La société Apple est régulièrement critiquée pour ses pratiques jugées douteuses. En effet Apple est un habitué des "erreurs" de conception et est souvent accusé d'obsolescence programmée.
       </p>
     
@@ -105,7 +105,7 @@
       <hr>
 
 
-      <h2 id="ampoule">L'ampoule de Livermore </h2>
+      <h2 id="ampoule">L'ampoule de Livermore</h2>
       <p class="lead">L’ampoule est l’un des premiers exemples de l’obsolescence programmée. Il est apparu suite au cartel Phoebus, où les 
         grands constructeurs d’ampoules, l’américain General Electric, l’allemand Osram, Philips et d’autres, se sont mis d’accord
          pour réduire la durée de vie des lampes à filament.
@@ -160,7 +160,7 @@
       <hr>
 
 
-      <h2 id="bas-nylon">L'exemple des Bas Nylons : </h2>
+      <h2 id="bas-nylon">L'exemple des Bas Nylons</h2>
       <p class="lead">Les bas nylons sont un exemple bien connu des défenseurs de l’idée de l’obsolescence programmée. Ils ont été cités dans le documentaire <a href="http://www.arte.tv/fr/pret-a-jeter/3714422,CmC=3714270.html" target="_blank"><i>Prêt à jeter</i></a> de Cosima Dannoritzer . 
      </p>
     
@@ -192,7 +192,7 @@
 
       <hr>
 
-      <h2 id="detroit">Le modèle de Détroit : </h2>
+      <h2 id="detroit">Le modèle de Détroit</h2>
       <p class="lead">Tout le monde connaît la Ford T, emblème de la société de consommation. Apparue en 1908, cette voiture fut une révolution à elle toute seule : la première à être produite de façon industrielle et à bas coûts. Henry Ford  a introduit le travail à la chaîne pour la production ce qui a permis d’abaisser considérablement le prix de ce modèle.
      </p>
     

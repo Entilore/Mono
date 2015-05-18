@@ -4,12 +4,12 @@
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
     <div class="container">
-      <h1>Les problématiques de l'obsolescence programmée :</h1>
+      <h1>Les problématiques de l'obsolescence programmée</h1>
 
       <hr>
 
 
-      <h2 id="definition">L'obsolescence programmée : </h2>
+      <h2 id="definition">L'obsolescence programmée</h2>
       <p class="lead"><strong>Définition :</strong> Pratique visant à réduire intentionnellement la durée de vie d’un produit, pour pousser le consommateur à le renouveler plus fréquemment. On distingue plusieurs types d’obsolescence programmée fonctionnelle :
       </p>
       <ul class="lead">
@@ -44,7 +44,7 @@
 
       <hr>
 
-      <h2 id="qualite">La qualité : </h2>
+      <h2 id="qualite">La qualité</h2>
       <p class="lead">L’obsolescence programmée est un concept très étroitement lié aux concepts de qualité. Une entreprise, lors de la conception d’un produit se doit de définir un niveau de qualité acceptable pour, d’une part, ne pas souffrir des sur-coûts liés à la non-qualité (rebuts, retour, maintenance etc…) et d’une autre part ne pas souffrir des coûts liés à la sur-qualité (coûts des matières premières, technique de conception etc..).
      </p>
     
