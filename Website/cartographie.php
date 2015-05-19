@@ -7,12 +7,9 @@ include("header_navbar.php");       ?>
 </div>
 <div id="mainpanel">
   <div class="col">
-    <div id="maintitle"></div>
-    <div id="title"></div>
-    <div id="titletext"></div>
     <div id="legend">
      <div class="box">
-      <h2>Legend:</h2>
+      <h2>Légende :</h2>
       <dl>
         <dt class="node">
         </dt>
@@ -26,12 +23,12 @@ include("header_navbar.php");       ?>
   </div> 
   <div class="b1">
     <form>
-      <div id="search" class="cf"><h2>Search:</h2>
-        <input type="text" name="search" value="Search by name" class="empty"/><div class="state"></div>
+      <div id="search" class="cf"><h2>Rechercher:</h2>
+        <input type="text" name="search" value="Rechercher par nom" class="empty"/><div class="state"></div>
         <div class="results"></div>
       </div>
-      <div class="cf" id="attributeselect"><h2>Group Selector:</h2>
-        <div class="select">Select Group</div>
+      <div class="cf" id="attributeselect"><h2>Sélécteur de groupe:</h2>
+        <div class="select">Selectionner un groupe</div>
         <div class="list cf"></div>
       </div>
     </form>
@@ -48,14 +45,14 @@ include("header_navbar.php");       ?>
 </div>
 <div id="attributepane">
   <div class="text">
-   <div title="Close" class="left-close returntext"><div class="c cf"><span>Return to the full network</span></div></div>	
+   <div title="Close" class="left-close returntext"><div class="c cf"><span>Retour au réseau complet</span></div></div>	
    <div class="headertext">
-     <span>Information Pane</span>
+     <span>Panel d'information</span>
    </div>	
    <div class="nodeattributes">
     <div class="name"></div>
     <div class="data"></div>
-    <div class="p">Connections:</div>
+    <div class="p">Connections :</div>
     <div class="link">
       <ul>
       </ul>

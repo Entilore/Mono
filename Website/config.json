@@ -13,9 +13,9 @@
     "intro": ""
   },
   "legend": {
-    "edgeLabel": "",
-    "colorLabel": "",
-    "nodeLabel": ""
+    "edgeLabel": "Lien entre deux sites",
+    "colorLabel": "Groupe d'acteurs",
+    "nodeLabel": "Acteurs de l\u0027obsolescence programmée"
   },
   "features": {
     "search": true,
@@ -34,7 +34,7 @@
       "minNodeSize": 2
     },
     "drawingProperties": {
-      "labelThreshold": 6,
+      "labelThreshold": 10,
       "hoverFontStyle": "bold",
       "defaultEdgeType": "curve",
       "defaultLabelColor": "#000",
