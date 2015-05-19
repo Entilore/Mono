@@ -37,9 +37,6 @@ html,body {
 	height: 100%;
 	top: 0;
 	left: 0;
-	background-color: #eee;
-	background-position: center center;
-	background-repeat: no-repeat;
 	-webkit-touch-callout: none;
 	-webkit-user-select: none;
 	-khtml-user-select: none;
@@ -133,6 +130,7 @@ float: left;
 	overflow-y: scroll;
 	overflow-x: hidden;
 	border-bottom:1px solid #999;
+	color: black;
 }
 
 #attributepane .name {
@@ -170,6 +168,7 @@ cursor:pointer;
 padding-top: 10px;
 font-weight: bold;
 font-size:14px;
+color: black;
 }
 
 .left-close {
@@ -183,7 +182,7 @@ background-repeat: no-repeat;
 margin-bottom:25px;
 font-weight: bold;
 font-size:14px;
-
+color: black;
 }
 
 #developercontainer {
@@ -231,8 +230,8 @@ display: none;
 }
 
 #mainpanel {
-margin-top: 50px;
-margin-left: 25px;
+margin-top: 100px;
+margin-left: 185px;
 background:#fff;
 background-color:rgba(255,255,255,0.8);
 border:1px solid #ccc;
@@ -389,6 +388,7 @@ padding-top: 1em;
 
 #mainpanel h2 {
 	font-size:14px;
+	color: black;
 }
 
 #mainpanel dt {
