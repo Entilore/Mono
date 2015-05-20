@@ -6,8 +6,58 @@
     <div class="container">
       <h1>Les acteurs importants</h1>
 
+   <hr>
+ <h2 id="AlexandreDelaigue">Alexandre Delaigue</h2>
+      <p class="lead">L'économiste Alexandre Delaigue est un acteur français important dans controverse de l'obsolescence programmée. Il fait parti des acteurs qui réfutent l'existence de malveillances des entreprises ayant pour but de réduire la durée de vie de leurs produits pour pousser au rachat de produits neufs.
+
+     </p>
+    
+      <div class=row>
+        <div class="col-md-3">
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/alexandredelaigue.jpg">
+              <figcaption>Alexandre Delaigue</figcaption>
+        </div>
+    
+        <div class="col-md-9">
+          <p class="lead">
+Son principal argument est le suivant : prenons deux entreprise vendant le même produits, les seules différences étant la durabilité et le prix ; le plus cher étant bien évidemment le plus durable. L'entreprise la plus rentable sera sans doute celle dont le produit dure le plus longtemps. Il existe en effet des entreprises prospères qui produisent des produits à durabilité très importante, comme par exemple la marque de chaussures Church.  <p class="lead">
+           </p>
+        </div>
+      </div>
+      
+      <div class=row>
+        <div class="col-md-9">
+          <p class="lead">
+
+     La logique voudrait que le producteur vendant plus de produits aura nécessairement des frais de production plus important, car il fabrique plus de produits. De plus, l'utilisateur dont le produit casse prématurément ou après une durée d’utilisation qu’il juge trop faible aura naturellement tendance à se tourner vers la concurrence.  
+  
+        
+          </p>
+          <p class="lead">
+           Au sein des acteurs contribuant au débat sur l’obsolescence programmée, le point de vue d'Alexandre Delaigue reste minoritaire bien que cet avis semble se  répandre. On peut ainsi voir l’apparition de sites comme <SITE> remettre en cause l’existence de l’obsolescence programmée.
+          </p>
+        </div>
+        <div class="col-md-3">
+              <img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/church.png">
+              <figcaption> Chaussure Church </figcaption>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-12">
+          <p class="lead">
+        M. Delaigue nous a récemment accordé un interview qui en cours de validation par ce dernier. Vous la trouverez dès que possible sur cette page.
+Si vous souhaitez en savoir plus, nous vous conseillons également l'article «Le mythe de la fabrication à dessein de produits fragiles» publié sur lefigaro.fr.</p>
+     </p>
+        </div>
+      </div>
+    
 
       <hr>
+
+
+
+   
 
 
       <h2 id="consommateur">Le rôle du consommateur</h2>

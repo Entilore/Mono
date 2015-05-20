@@ -88,7 +88,7 @@
                   <ul class="dropdown-menu" role="menu">
 
                     <li class="dropdown-header">Ceux qui démentent </li>
-                    <li><a href="acteurs.php#">Alexandre Delaigue</a></li>
+                    <li><a href="acteurs.php#AlexandreDelaigue">Alexandre Delaigue</a></li>
                     <li class="divider"></li>
                     <li class="dropdown-header"> </li>
                     <li><a href="acteurs.php#">Serge Latouche</a></li>
