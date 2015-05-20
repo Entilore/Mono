@@ -28,7 +28,7 @@
       
       <div class=row>
         <div class="col-md-9">
-          <p class="lead">C’est ce qu’a réussi à faire un Russe #NOM#. Il a créé et rendu public un logiciel permettant de remettre à zéro la pièce responsable de la panne de la machine. Et effectivement, l’imprimante devient de nouveau fonctionnelle après la manipulation.
+          <p class="lead">C’est ce qu’a réussi à faire Vitaliy Kiselev, programmeur Russe. Il a créé et rendu public un logiciel permettant de remettre à zéro la pièce responsable de la panne de la machine. Et effectivement, l’imprimante devient de nouveau fonctionnelle après la manipulation.
           </p>
         </div>
         <div class="col-md-3"><img class="featurette-image img-responsive img-thumbnail" data-src="holder.js/500x500/auto" alt="Generic placeholder image" src="assets/tonnaire.jpg">
