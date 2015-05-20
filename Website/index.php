@@ -22,6 +22,8 @@
           <a href="exemples.php#detroit"><img src="assets/Ford-T_slider.jpg" alt="Le modèle de Détroit">
           <div class="container">
             <div class="carousel-caption">
+              <h1 class="featurette-heading">Le modèle de Détroit</h1>
+              <h2>Un exemple d'obsolescence programmée</h2>
             </div>
           </div>
           </a>
@@ -37,6 +39,8 @@
           <a href="mono.php"><img src="assets/fablab_slider.jpg" alt="FaBLab Squared à la Cité des Sciences"></a>
           <div class="container">
             <div class="carousel-caption">
+              <h2 class="featurette-heading">Un FaBLab à la Cité des Sciences</h2>
+              <h1 class="featurette-heading">Réparez vos objets !</h1>
             </div>
           </div>
         </div>
