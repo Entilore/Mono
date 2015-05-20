@@ -8,17 +8,18 @@
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li> <!-- Ajouter ici une ligne par image, en incrémentant le data-slide-to -->
         <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <a href="definition.php#definition"><img src="assets/slider.jpg" alt="First slide"></a>
+          <a href="definition.php#definition"><img src="assets/slider.jpg" alt="Definition OP"></a>
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
         <div class="item">  <!-- Recopier le div, un par image -->
-          <a href="exemples.php#detroit"><img src="assets/Ford-T_slider.jpg" alt="2nd slide">
+          <a href="exemples.php#detroit"><img src="assets/Ford-T_slider.jpg" alt="Le modèle de Détroit">
           <div class="container">
             <div class="carousel-caption">
             </div>
@@ -26,7 +27,14 @@
           </a>
         </div>
         <div class="item">
-          <a href="mono.php"><img src="assets/slider-mono.jpg" alt="Third slide"></a>
+          <a href="mono.php"><img src="assets/slider-mono.jpg" alt="Notre Monographie"></a>
+          <div class="container">
+            <div class="carousel-caption">
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <a href="mono.php"><img src="assets/fablab_slider.jpg" alt="FaBLab Squared à la Cité des Sciences"></a>
           <div class="container">
             <div class="carousel-caption">
             </div>
