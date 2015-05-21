@@ -9,6 +9,7 @@
         <li data-target="#myCarousel" data-slide-to="1"></li> <!-- Ajouter ici une ligne par image, en incrémentant le data-slide-to -->
         <li data-target="#myCarousel" data-slide-to="2"></li>
         <li data-target="#myCarousel" data-slide-to="3"></li>
+        <li data-target="#myCarousel" data-slide-to="4"></li>
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
@@ -41,6 +42,14 @@
             <div class="carousel-caption">
               <h2 class="featurette-heading">Un FaBLab à la Cité des Sciences</h2>
               <h1 class="featurette-heading">Réparez vos objets !</h1>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <a href="mono.php"><img src="assets/dechets_slider.jpg" alt="Un homme au milieu des dechets à Guiyu en Chine"></a>
+          <div class="container">
+            <div class="carousel-caption">
+              <h1 class="featurette-heading">La décharge de Guiyu</h1>
             </div>
           </div>
         </div>
