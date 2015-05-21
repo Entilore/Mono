@@ -37,9 +37,6 @@ include("header_navbar.php");       ?>
 <div id="information">
 </div>
 </div>
-<div id="zoom">
-  <div class="z" rel="in"></div> <div class="z" rel="out"></div> <div class="z" rel="center"></div>
-</div>
 <div id="copyright">
   <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="assets/carto/CC.png" /></a>
 </div>
