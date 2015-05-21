@@ -275,9 +275,10 @@ function configSigmaElements(config) {
     }
     $GP.bg = $(sigInst._core.domElements.bg);
     $GP.bg2 = $(sigInst._core.domElements.bg2);
+    var grpNames = ["Écologiste","Média","Développement Durable","Réduction déchets","Industriel","Gouvernement","Consommateur","Divers"]; 
     var a = [],
         b,x=1;
-		for (b in sigInst.clusters) a.push('<div style="line-height:12px"><a href="#' + b + '"><div style="width:40px;height:12px;border:1px solid #fff;background:' + b + ';display:inline-block"></div> Group ' + (x++) + ' (' + sigInst.clusters[b].length + ' members)</a></div>');
+		for (b in sigInst.clusters) a.push('<div style="line-height:12px"><a href="#' + b + '"><div style="width:40px;height:12px;border:1px solid #fff;background:' + b + ';display:inline-block"></div> ' + (grpNames[(x++)-1]) + ' (' + sigInst.clusters[b].length + ' membres)</a></div>');
     //a.sort();
     $GP.cluster.content(a.join(""));
     b = {
@@ -369,7 +370,7 @@ function Search(a) {
         this.searching = !0;
         this.lastSearch = a;
         this.results.empty();
-        if (2 >= a.length) this.results.html("<i>You must search for a name with a minimum of 3 letters.</i>");
+        if (2 >= a.length) this.results.html("<i>Vous devez chercher un nom d'au minimum 3 lettres.</i>");
         else {
             sigInst.iterNodes(function (a) {
                 g.test(a.label.toLowerCase()) && c.push({
@@ -378,9 +379,9 @@ function Search(a) {
                 })
             });
             c.length ? (b = !0, nodeActive(c[0].id)) : b = showCluster(a);
-            a = ["<b>Search Results: </b>"];
+            a = ["<b>Résultat de la recherche : </b>"];
             if (1 < c.length) for (var d = 0, h = c.length; d < h; d++) a.push('<a href="#' + c[d].name + '" onclick="nodeActive(\'' + c[d].id + "')\">" + c[d].name + "</a>");
-            0 == c.length && !b && a.push("<i>No results found.</i>");
+            0 == c.length && !b && a.push("<i>Aucun résultat.</i>");
             1 < a.length && this.results.html(a.join(""));
            }
         if(c.length!=1) this.results.show();
@@ -528,14 +529,14 @@ function nodeActive(a) {
 
 	if (groupByDirection) {
 		size=Object.size(mutual);
-		f.push("<h2>Mututal (" + size + ")</h2>");
-		(size>0)? f=f.concat(createList(mutual)) : f.push("No mutual links<br>");
+		f.push("<h2>Mutuel (" + size + ")</h2>");
+		(size>0)? f=f.concat(createList(mutual)) : f.push("Aucun lien mutuel<br>");
 		size=Object.size(incoming);
-		f.push("<h2>Incoming (" + size + ")</h2>");
-		(size>0)? f=f.concat(createList(incoming)) : f.push("No incoming links<br>");
+		f.push("<h2>Entrant (" + size + ")</h2>");
+		(size>0)? f=f.concat(createList(incoming)) : f.push("Aucun lien entrant<br>");
 		size=Object.size(outgoing);
-		f.push("<h2>Outgoing (" + size + ")</h2>");
-		(size>0)? f=f.concat(createList(outgoing)) : f.push("No outgoing links<br>");
+		f.push("<h2>Sortant (" + size + ")</h2>");
+		(size>0)? f=f.concat(createList(outgoing)) : f.push("Aucun lien sortant<br>");
 	} else {
 		f=f.concat(createList(sigInst.neighbors));
 	}
