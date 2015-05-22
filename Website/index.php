@@ -76,7 +76,7 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Avant toute chose...</h2>
-          <p class="lead">L’obsolescence programmée est un concept du début du siècle dernier, redevenu sujet d’actualité avec le projet de loi visant à la sanctionner. L’hypothèse est que cette pratique est l’une des causes d’une durée de vie réduite des produits. Un produit devient obsolète par différents processus. Il peut d’une part tout simplement être abîmé, cassé ou être remplacé car ses fonctionnalités sont dépassées ou que son exploitation n’est plus possible (ex : fermeture du service Minitel le 30 juin 2012 <LIEN>). Dans les deux cas le produit n’est donc plus fonctionnel.
+          <p class="lead">L’obsolescence programmée est un concept du début du siècle dernier, redevenu sujet d’actualité avec le projet de loi visant à la sanctionner. L’hypothèse est que cette pratique est l’une des causes d’une durée de vie réduite des produits. Un produit devient obsolète par différents processus. Il peut d’une part tout simplement être abîmé, cassé ou être remplacé car ses fonctionnalités sont dépassées ou que son exploitation n’est plus possible (ex : fermeture du service Minitel le 30 juin 2012 /*LIEN*/). Dans les deux cas le produit n’est donc plus fonctionnel.
           </p>
         </div>
         <div class="col-md-5">
